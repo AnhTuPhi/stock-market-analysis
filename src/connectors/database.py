@@ -1,7 +1,7 @@
-__author__ = 'Khiem Doan'
-__github__ = 'https://github.com/khiemdoan'
-__email__ = 'doankhiem.crazy@gmail.com'
-__source__ = 'https://github.com/khiemdoan/clean-architecture-python-boilerplate/blob/main/src/connectors/database.py'
+__author__ = 'Phi Anh Tu'
+__github__ = 'https://github.com/AnhTuPhi'
+__email__ = 'phianhtu2211@gmail.com'
+__source__ = 'https://github.com/AnhTuPhi/clean-architecture-python-boilerplate/blob/main/src/connectors/database.py'
 
 from asyncio import current_task
 from typing import Annotated, AsyncGenerator, Generator

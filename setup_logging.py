@@ -1,7 +1,7 @@
 
-__author__ = 'Khiem Doan'
-__github__ = 'https://github.com/khiemdoan'
-__email__ = 'doankhiem.crazy@gmail.com'
+__author__ = 'Phi Anh Tu'
+__github__ = 'https://github.com/AnhTuPhi'
+__email__ = 'phianhtu2211@gmail.com'
 
 import sys
 from pathlib import Path

@@ -1,0 +1,244 @@
+{
+    "overview": {
+        "symbol": "VND",
+        "id": "76468",
+        "issue_share": 1522299908,
+        "history": " - Ngày 16/11/2006: Công ty Cổ phần Chứng khoán VNDIRECT được thành lập với vốn điều lệ ban đầu là 50 tỷ đồng theo Giấy phép số 22/UBCK  - GPHĐKD của Ủy ban Chứng khoán Nhà nước;  - Tháng 04/2007: Thành lập chi nhánh Thành phố Hồ Chí Minh;  - Tháng 11/2007: Tăng vốn điều lệ lên 300.000.000.000 đồng;  - Tháng 12/2008: Chuyển trụ sở chính đến số 1 Nguyễn Thượng Hiền, Hai Bà Trưng, Hà Nội;  - Năm 2010: Niêm yết trên Sở Giao dịch Chứng khoán Hà Nội (HNX) với vốn điều lệ tăng lên 1.000 tỷ đồng;  - Năm 2012: Mở thêm chi nhánh tại Cần Thơ;  - Năm 2014: Tăng vốn điều lệ lên 1.550.000.000.000 đồng;  - Ngày 10/08/2017: Niêm yết trên Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh (HOSE);  - Ngày 17/08/2017: Hủy niêm yết trên Sở Giao dịch Chứng khoán Hà Nội (HNX);  - Ngày 18/08/2017: Giao dịch trên trên Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh (HOSE);  - Ngày 20/07/2021: Tăng vốn điều lệ lên 2.204.301.690.000 đồng;  - Ngày 15/09/2021: Tăng vốn điều lệ lên 4.349.446.870.000 đồng;  - Ngày 05/05/2022: Tăng vốn điều lệ lên 12.178.440.090.000 đồng;  - Ngày 26/07/2024: Tăng vốn điều lệ lên 15.222.999.080.000 đồng;",
+        "company_profile": "Công ty Cổ phần Chứng khoán VNDIRECT (VND) được thành lập vào năm 2006. Công ty hoạt động trong lĩnh vực môi giới lưu ký chứng khoán, tư vấn tài chính doanh nghiệp, tự doanh, bảo lãnh phát hành và quản lý danh mục đầu tư. Trong năm 2024, Công ty xếp ở vị trí 6 với 5.87% thị phần môi giới cổ phiếu niêm yết tại HOSE, vị trí thứ 3 với 7.26% thị phần môi giới cổ phiếu niêm yết tại HNX và thứ 4 với 5.59% thị phần môi giới cổ phiếu đăng ký giao dịch trên thị trường UPCOM. Trên thị trường phái sinh, VND đứng vị trí thứ 7 thị phần môi giới chứng khoán phái sinh với 3.12%. Doanh thu nghiệp vụ môi giới chứng khoán có giá trị bằng 719,86 tỷ đồng. Nợ vay ký quỹ/Vốn chủ sở hữu ở mức 51.48%. Lợi nhuận từ FVTPL có giá trị bằng 1.496,8 tỷ đồng, đóng góp 46.73% tổng lợi nhuận hoạt động. Lợi nhuận trước thuế có giá trị bằng 2.088,32 tỷ đồng. Tỷ lệ sinh lời trên vốn chủ sở hữu (ROE) ở mức 9.49%. VND được niêm yết và giao dịch trên Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh (HOSE) từ tháng 08/2017.",
+        "icb_name3": "Dịch vụ tài chính",
+        "icb_name2": "Dịch vụ tài chính",
+        "icb_name4": "Môi giới chứng khoán",
+        "financial_ratio_issue_share": 1522299908,
+        "charter_capital": 15222999080000
+    },
+    "shareholders": [
+        {
+            "id": "86823536",
+            "share_holder": "Công ty Cổ phần Tập đoàn Đầu tư I.P.A",
+            "quantity": 393318477,
+            "share_own_percent": 0.2584,
+            "update_date": "2025-08-13",
+            "percentage": "25.84%"
+        },
+        {
+            "id": "86853930",
+            "share_holder": "Yurie Vietnam Securities Investment Trust",
+            "quantity": 60817775,
+            "share_own_percent": 0.0499,
+            "update_date": "2023-08-02",
+            "percentage": "4.99%"
+        },
+        {
+            "id": "86852137",
+            "share_holder": "Vietnam Investment Fund I, L.P",
+            "quantity": 52049373,
+            "share_own_percent": 0.0427,
+            "update_date": "2023-08-02",
+            "percentage": "4.27%"
+        },
+        {
+            "id": "86846188",
+            "share_holder": "PYN Elite Fund",
+            "quantity": 49181328,
+            "share_own_percent": 0.0404,
+            "update_date": "2023-08-02",
+            "percentage": "4.04%"
+        },
+        {
+            "id": "86846118",
+            "share_holder": "PXP Vietnam Smaller Companies Fund Limited",
+            "quantity": 39504323,
+            "share_own_percent": 0.0324,
+            "update_date": "2023-08-02",
+            "percentage": "3.24%"
+        },
+        {
+            "id": "86823285",
+            "share_holder": "Công ty Cổ phần Quản Lý Quỹ Đầu Tư Dragon Capital Việt Nam",
+            "quantity": 5000077,
+            "share_own_percent": 0.03225894,
+            "update_date": "2025-03-10",
+            "percentage": "3.23%"
+        },
+        {
+            "id": "86843840",
+            "share_holder": "Phạm Minh Hương",
+            "quantity": 44901212,
+            "share_own_percent": 0.0295,
+            "update_date": "2025-08-13",
+            "percentage": "2.95%"
+        },
+        {
+            "id": "86828170",
+            "share_holder": "Endurance Capital Vietnam I Ltd",
+            "quantity": 14737144,
+            "share_own_percent": 0.0121,
+            "update_date": "2023-08-02",
+            "percentage": "1.21%"
+        },
+        {
+            "id": "86820315",
+            "share_holder": "Access S.a., Sicav-sif-asia Top Picks",
+            "quantity": 3325000,
+            "share_own_percent": 0.0078,
+            "update_date": "2021-08-23",
+            "percentage": "0.78%"
+        },
+        {
+            "id": "86826106",
+            "share_holder": "Đậu Thúy Hà",
+            "quantity": 117944,
+            "share_own_percent": 0.000760939,
+            "update_date": "2015-09-14",
+            "percentage": "0.08%"
+        },
+        {
+            "id": "86841381",
+            "share_holder": "Nguyễn Tống Sơn",
+            "quantity": 75117,
+            "share_own_percent": 0.0004846321,
+            "update_date": "2015-09-14",
+            "percentage": "0.05%"
+        },
+        {
+            "id": "86850842",
+            "share_holder": "Trần Vũ Thạch",
+            "quantity": 100000,
+            "share_own_percent": 0.000454,
+            "update_date": "2019-08-13",
+            "percentage": "0.05%"
+        },
+        {
+            "id": "86853934",
+            "share_holder": "Yurie Vietnam Smart Accumulated Target Return Fund",
+            "quantity": 87000,
+            "share_own_percent": 0.0004,
+            "update_date": "2018-10-25",
+            "percentage": "0.04%"
+        },
+        {
+            "id": "86839171",
+            "share_holder": "Nguyễn Thị Hà Ninh",
+            "quantity": 25597,
+            "share_own_percent": 0.000116,
+            "update_date": "2023-07-28",
+            "percentage": "0.01%"
+        },
+        {
+            "id": "86846600",
+            "share_holder": "Quỹ Đầu tư Tăng trưởng DFVN",
+            "quantity": 20000,
+            "share_own_percent": 9.59136e-05,
+            "update_date": "2020-07-14",
+            "percentage": "0.01%"
+        },
+        {
+            "id": "86831976",
+            "share_holder": "Lê Thị Hồng Lĩnh",
+            "quantity": 2543,
+            "share_own_percent": 1.64066e-05,
+            "update_date": "2015-09-14",
+            "percentage": "0.00%"
+        },
+        {
+            "id": "86853802",
+            "share_holder": "Vũ Việt Anh",
+            "quantity": 1750,
+            "share_own_percent": 1e-06,
+            "update_date": "2025-08-13",
+            "percentage": "0.00%"
+        },
+        {
+            "id": "86852874",
+            "share_holder": "Vũ Hiền",
+            "quantity": 529,
+            "share_own_percent": 4e-07,
+            "update_date": "2025-08-13",
+            "percentage": "0.00%"
+        },
+        {
+            "id": "86842942",
+            "share_holder": "Nguyễn Vũ Long",
+            "quantity": 273,
+            "share_own_percent": 2e-07,
+            "update_date": "2025-08-13",
+            "percentage": "0.00%"
+        }
+    ],
+    "subsidiaries": [],
+    "affiliates": [
+        {
+            "id": "24582690",
+            "sub_organ_code": "0108951120",
+            "organ_name": "Công ty Cổ Phần Ẩm Thực Mặt Trời Vàng",
+            "ownership_percent": NaN,
+            "percentage": "nan%"
+        },
+        {
+            "id": "24582691",
+            "sub_organ_code": "IPAG",
+            "organ_name": "Công ty Cổ phần Tập đoàn Đầu tư I.P.A",
+            "ownership_percent": NaN,
+            "percentage": "nan%"
+        },
+        {
+            "id": "24582692",
+            "sub_organ_code": "PTI",
+            "organ_name": "Tổng Công ty Cổ phần Bảo hiểm Bưu điện",
+            "ownership_percent": 0.2,
+            "percentage": "20.00%"
+        }
+    ],
+    "officers": [
+        {
+            "id": "10",
+            "officer_name": "Phạm Minh Hương",
+            "officer_position": "Chủ tịch Hội đồng Quản trị",
+            "position_short_name": "Chủ tịch HĐQT",
+            "update_date": "2025-08-13",
+            "officer_own_percent": 0.0295,
+            "quantity": 44901212,
+            "percentage": "2.95%"
+        },
+        {
+            "id": "11",
+            "officer_name": "Vũ Hiền",
+            "officer_position": "Thành viên Hội đồng Quản trị",
+            "position_short_name": "TV HĐQT",
+            "update_date": "2025-08-13",
+            "officer_own_percent": 4e-07,
+            "quantity": 529,
+            "percentage": "0.00%"
+        },
+        {
+            "id": "12",
+            "officer_name": "Nguyễn Vũ Long",
+            "officer_position": "Phó Tổng Giám đốc",
+            "position_short_name": "Phó TGĐ",
+            "update_date": "2025-08-13",
+            "officer_own_percent": 2e-07,
+            "quantity": 273,
+            "percentage": "0.00%"
+        },
+        {
+            "id": "4",
+            "officer_name": "Trần Thị Hồng Nhung",
+            "officer_position": "Kế toán trưởng",
+            "position_short_name": "Kế toán trưởng",
+            "update_date": "2023-04-11",
+            "officer_own_percent": 0.0,
+            "quantity": 0,
+            "percentage": "0.00%"
+        },
+        {
+            "id": "5",
+            "officer_name": "Nguyễn Thị Minh Hạnh",
+            "officer_position": "Thành viên Ban kiểm soát",
+            "position_short_name": "TV BKS",
+            "update_date": "2023-06-01",
+            "officer_own_percent": 0.0,
+            "quantity": 0,
+            "percentage": "0.00%"
+        }
+    ]
+}

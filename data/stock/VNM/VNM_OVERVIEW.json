@@ -1,0 +1,773 @@
+{
+    "overview": {
+        "symbol": "VNM",
+        "id": "76529",
+        "issue_share": 2089955445,
+        "history": " - Năm 1976: Tiền thân của công ty là Công ty Sữa – Cà Phê Miền Nam, trực thuộc Tổng Cục thực phẩm được thành lập;  - Năm 1978: Đổi tên thành Xí nghiệp liên hợp Sữa Cafe và Bánh kẹo I;  - Năm 1989: Nhà máy sữa bột Dielac đi vào hoạt động;  - Năm 1991: Cuộc “cách mạng trắng” khởi đầu chương trình xây dựng vùng nguyên liệu sữa tươi. Lần đầu tiên giới thiệu sản phẩm sữa UHT và sữa chua;  - Tháng 3/1992: Xí Nghiệp liên hiệp Sữa Cafe và Bánh kẹo I chính thức đổi tên thành Công ty Sữa Việt Nam;  - Năm 1994: Xây dựng thêm một nhà máy sữa Hà Nội;  - Năm 2003: Xây thêm nhà máy sữa Cần Thơ;  - Tháng 11/2003: Công ty chuyển sang hình thức cổ phần, chính thức đổi tên là Công ty Cổ phần Sữa Việt Nam (Vinamilk);  - Tháng 04/2004: Mua nhà máy sữa Sài Gòn (Saigon milk), tăng vốn điều lệ lên 1.590 tỷ đồng;  - Ngày 19/01/2006: Cổ phiếu của Vinamilk chính thức giao dịch trên HOSE;  - Tháng 09/2010: Là doanh nghiệp đầu tiên của Việt Nam lọt vào danh sách 200 công ty vừa và nhỏ tốt nhất Châu Á của Forbes;  - Tháng 06/2012: Nhà máy sữa Đà Nẵng đi vào hoạt động;  - Ngày 21/10/2013: Sở Kế hoạch và Đầu tư tỉnh Thanh Hóa cấp giấy chứng nhận đăng kí kinh doanh cho công ty TNHH Bò sữa Thống Nhất, Thanh Hóa. Vinamilk nắm giữ 96,33% vốn điều lệ;  - Năm 2014: Góp 51% vốn thành lập Công ty AngkorMilk tại thị trường Campuchia và góp 100% vốn thành lập công ty con Vinamilk Europe Spostkaz Ograniczona Odpowiedzialnoscia tại Ba Lan;  - Năm 2016: Tham gia góp 18% vào CTCP APIS nhằm mở rộng và phát triển chuỗi giá trị các sản phẩm của Vinamilk và thành lập Văn phòng đại diện Thái Lan;  - Năm 2017: Thành lập Trung tâm Sữa tươi nguyên liệu Củ Chi, đầu tư vào ngành đường với việc nắm 65% cổ phần của Công ty Cổ phần Đường Việt Nam (tiền thân là Công ty Cổ phần Đường Khánh Hoà) và 25% góp vốn vào Công ty Cổ phần Chế Biến Dừa Á Châu;  - Ngày 12/10/2018: Tăng vốn điều lệ lên 17.416.877.930.000 đồng;  - Năm 2019: Đầu tư nắm giữ 75% cổ phần của Công ty Cổ phần GTNFoods, qua đó tham gia điều hành Công ty Cổ phần Sữa Mộc Châu;  - Ngày 26/10/2020: Tăng vốn điều lệ lên 20.899.554.450.000 đồng;",
+        "company_profile": "Công ty Cổ phần Sữa Việt Nam (VNM) có tiền thân là Công ty Sữa – Cà Phê Miền Nam, được thành lập vào năm 1976. Công ty hoạt động chính trong lĩnh vực chế biến sản xuất, kinh doanh xuất nhập khẩu các sản phẩm sữa và các sản phẩm dinh dưỡng khác. VNM chính thức hoạt động theo mô hình công ty cổ phần từ năm 2003. Công ty giữ vững vị thế top 1 thị phần ngành sữa Việt Nam , hiện nay VNM đang quản lý hơn 130.000 đàn bò sữa đang khai thác, 15 trang trại bò sữa công nghệ cao, 16 nhà máy sữa hiện đại và 1 nhà máy thị bò mát 10.000 tấn. Sản phẩm của VNM đã có mặt tại hơn 200.000 điểm bán trong hệ thống phân phối và được xuất khẩu trực tiếp đến 63 quốc gia và vùng lãnh thổ trên thế giới. VNM được niêm yết và giao dịch trên Sở Chứng khoán Thành phố Hồ Chí Minh (HOSE) từ năm 2006.",
+        "icb_name3": "Sản xuất thực phẩm",
+        "icb_name2": "Thực phẩm và đồ uống",
+        "icb_name4": "Thực phẩm",
+        "financial_ratio_issue_share": 2089955445,
+        "charter_capital": 20899554450000
+    },
+    "shareholders": [
+        {
+            "id": "86847861",
+            "share_holder": "Tổng Công ty Đầu Tư Và Kinh Doanh Vốn Nhà Nước - Công ty TNHH",
+            "quantity": 752476602,
+            "share_own_percent": 0.36,
+            "update_date": "2025-07-29",
+            "percentage": "36.00%"
+        },
+        {
+            "id": "86828215",
+            "share_holder": "F&N Dairy Investments Private Limited",
+            "quantity": 369752859,
+            "share_own_percent": 0.1769,
+            "update_date": "2025-07-31",
+            "percentage": "17.69%"
+        },
+        {
+            "id": "86846084",
+            "share_holder": "Platinum Victory Private Limited",
+            "quantity": 221856553,
+            "share_own_percent": 0.1062,
+            "update_date": "2025-07-30",
+            "percentage": "10.62%"
+        },
+        {
+            "id": "86828214",
+            "share_holder": "F&n Bev Manufacturing Pte. Ltd.",
+            "quantity": 56432376,
+            "share_own_percent": 0.027,
+            "update_date": "2025-07-29",
+            "percentage": "2.70%"
+        },
+        {
+            "id": "86833956",
+            "share_holder": "Ngân hàng Deutsche Aktiengesellschaft",
+            "quantity": 26297320,
+            "share_own_percent": 0.0219118879,
+            "update_date": "2015-06-15",
+            "percentage": "2.19%"
+        },
+        {
+            "id": "86828247",
+            "share_holder": "Fubon FTSE Vietnam ETF",
+            "quantity": 26733100,
+            "share_own_percent": 0.0128,
+            "update_date": "2025-02-13",
+            "percentage": "1.28%"
+        },
+        {
+            "id": "86828165",
+            "share_holder": "Employees Provident Fund Board",
+            "quantity": 26565864,
+            "share_own_percent": 0.0127,
+            "update_date": "2024-06-05",
+            "percentage": "1.27%"
+        },
+        {
+            "id": "86847504",
+            "share_holder": "The Emerging Markets Fund Of The Genesis Group Trust For Employee Benefit Plans",
+            "quantity": 24680960,
+            "share_own_percent": 0.0118,
+            "update_date": "2024-06-05",
+            "percentage": "1.18%"
+        },
+        {
+            "id": "86826210",
+            "share_holder": "Deutsche Bank Aktiengesellchaft, London Branch",
+            "quantity": 19273408,
+            "share_own_percent": 0.0111,
+            "update_date": "2024-06-05",
+            "percentage": "1.11%"
+        },
+        {
+            "id": "86828212",
+            "share_holder": "First State Global Umbrella Fund Plc - First State Asian Equity Plus Fund",
+            "quantity": 21279864,
+            "share_own_percent": 0.0102,
+            "update_date": "2024-06-05",
+            "percentage": "1.02%"
+        },
+        {
+            "id": "86833862",
+            "share_holder": "Matthews Pacific Tiger Fund",
+            "quantity": 17993828,
+            "share_own_percent": 0.0086,
+            "update_date": "2024-06-05",
+            "percentage": "0.86%"
+        },
+        {
+            "id": "86846938",
+            "share_holder": "Stichting Depositary Apg Emerging Markets Equity Pool",
+            "quantity": 13497977,
+            "share_own_percent": 0.0077,
+            "update_date": "2024-06-05",
+            "percentage": "0.77%"
+        },
+        {
+            "id": "86847507",
+            "share_holder": "The Genesis Emerging Markets Investment Company",
+            "quantity": 12542264,
+            "share_own_percent": 0.0072,
+            "update_date": "2024-06-05",
+            "percentage": "0.72%"
+        },
+        {
+            "id": "86851928",
+            "share_holder": "VanEck Vietnam ETF",
+            "quantity": 15070141,
+            "share_own_percent": 0.0072,
+            "update_date": "2024-06-05",
+            "percentage": "0.72%"
+        },
+        {
+            "id": "86820487",
+            "share_holder": "Amersham Industries Limited",
+            "quantity": 10341514,
+            "share_own_percent": 0.0071,
+            "update_date": "2024-06-05",
+            "percentage": "0.71%"
+        },
+        {
+            "id": "86852182",
+            "share_holder": "Vietnam Ventures Limited",
+            "quantity": 10395869,
+            "share_own_percent": 0.006,
+            "update_date": "2024-06-05",
+            "percentage": "0.60%"
+        },
+        {
+            "id": "86833856",
+            "share_holder": "Matthews Asia Dividend Fund",
+            "quantity": 9613225,
+            "share_own_percent": 0.0055,
+            "update_date": "2024-06-05",
+            "percentage": "0.55%"
+        },
+        {
+            "id": "86852195",
+            "share_holder": "Vinacapital Vietnam Opportunity Fund Ltd.",
+            "quantity": 9250094,
+            "share_own_percent": 0.0053119,
+            "update_date": "2024-06-05",
+            "percentage": "0.53%"
+        },
+        {
+            "id": "86826181",
+            "share_holder": "Deutsche Asset Management (Asia) Limited",
+            "quantity": 6305772,
+            "share_own_percent": 0.0052541996,
+            "update_date": "2015-06-15",
+            "percentage": "0.53%"
+        },
+        {
+            "id": "86843268",
+            "share_holder": "Norges Bank",
+            "quantity": 10807900,
+            "share_own_percent": 0.0052,
+            "update_date": "2024-06-05",
+            "percentage": "0.52%"
+        },
+        {
+            "id": "86820662",
+            "share_holder": "Beira Limited",
+            "quantity": 5904008,
+            "share_own_percent": 0.0049194352,
+            "update_date": "2015-06-15",
+            "percentage": "0.49%"
+        },
+        {
+            "id": "86824420",
+            "share_holder": "Công ty TNHH Manulife (Việt Nam) (Manulife)",
+            "quantity": 9695600,
+            "share_own_percent": 0.0046,
+            "update_date": "2024-06-05",
+            "percentage": "0.46%"
+        },
+        {
+            "id": "86828192",
+            "share_holder": "Fidelity Investment Trust - Fidelity Series Emerging Markets Fund",
+            "quantity": 7770400,
+            "share_own_percent": 0.0045,
+            "update_date": "2020-03-30",
+            "percentage": "0.45%"
+        },
+        {
+            "id": "86830361",
+            "share_holder": "KIM Vietnam Growth Equity Fund",
+            "quantity": 9485900,
+            "share_own_percent": 0.0045,
+            "update_date": "2024-06-05",
+            "percentage": "0.45%"
+        },
+        {
+            "id": "86833885",
+            "share_holder": "Merrill Lynch International",
+            "quantity": 9407528,
+            "share_own_percent": 0.0045,
+            "update_date": "2024-06-05",
+            "percentage": "0.45%"
+        },
+        {
+            "id": "86821859",
+            "share_holder": "Citigroup Global Markets Ltd",
+            "quantity": 8631945,
+            "share_own_percent": 0.0041,
+            "update_date": "2024-06-05",
+            "percentage": "0.41%"
+        },
+        {
+            "id": "86828278",
+            "share_holder": "Government Of Singapore",
+            "quantity": 7274316,
+            "share_own_percent": 0.0035,
+            "update_date": "2024-06-05",
+            "percentage": "0.35%"
+        },
+        {
+            "id": "86833650",
+            "share_holder": "Mai Kiều Liên",
+            "quantity": 6400444,
+            "share_own_percent": 0.0031,
+            "update_date": "2025-07-29",
+            "percentage": "0.31%"
+        },
+        {
+            "id": "86830438",
+            "share_holder": "KITMC Worldwide Vietnam RSP Balanced Fund",
+            "quantity": 3240020,
+            "share_own_percent": 0.002699703,
+            "update_date": "2015-06-15",
+            "percentage": "0.27%"
+        },
+        {
+            "id": "86828306",
+            "share_holder": "Grinling International Limited",
+            "quantity": 2941221,
+            "share_own_percent": 0.002,
+            "update_date": "2017-02-02",
+            "percentage": "0.20%"
+        },
+        {
+            "id": "86820539",
+            "share_holder": "Arisaig ASEAN Fund Limited",
+            "quantity": 1953480,
+            "share_own_percent": 0.0016277109,
+            "update_date": "2015-06-15",
+            "percentage": "0.16%"
+        },
+        {
+            "id": "86828216",
+            "share_holder": "Food & Beverage",
+            "quantity": 1766833,
+            "share_own_percent": 0.0014721898,
+            "update_date": "2015-06-15",
+            "percentage": "0.15%"
+        },
+        {
+            "id": "86826152",
+            "share_holder": "DC Developing Markets Strategies Public Limited Company",
+            "quantity": 1524615,
+            "share_own_percent": 0.0011,
+            "update_date": "2017-02-13",
+            "percentage": "0.11%"
+        },
+        {
+            "id": "86846106",
+            "share_holder": "PXP Vietnam Emerging Equity Fund",
+            "quantity": 1887511,
+            "share_own_percent": 0.0010839182,
+            "update_date": "2020-06-15",
+            "percentage": "0.11%"
+        },
+        {
+            "id": "86846674",
+            "share_holder": "Quỹ ETF DCVFMVN30",
+            "quantity": 1392470,
+            "share_own_percent": 0.00079964,
+            "update_date": "2025-02-03",
+            "percentage": "0.08%"
+        },
+        {
+            "id": "86824520",
+            "share_holder": "Công ty TNHH MTV Đầu Tư SCIC",
+            "quantity": 1450000,
+            "share_own_percent": 0.00069,
+            "update_date": "2024-06-19",
+            "percentage": "0.07%"
+        },
+        {
+            "id": "86828286",
+            "share_holder": "Greystanes Limited Company",
+            "quantity": 711582,
+            "share_own_percent": 0.0005929161,
+            "update_date": "2015-06-15",
+            "percentage": "0.06%"
+        },
+        {
+            "id": "86840406",
+            "share_holder": "Nguyễn Thị Thanh Hòa",
+            "quantity": 1108184,
+            "share_own_percent": 0.0005,
+            "update_date": "2025-03-05",
+            "percentage": "0.05%"
+        },
+        {
+            "id": "86846350",
+            "share_holder": "Quỹ Đầu tư Cổ phiếu Hàng Đầu VCBF",
+            "quantity": 854390,
+            "share_own_percent": 0.00049064,
+            "update_date": "2025-02-03",
+            "percentage": "0.05%"
+        },
+        {
+            "id": "86846437",
+            "share_holder": "Quỹ Đầu tư Cổ phiếu Tăng trưởng Mirae Asset Việt Nam",
+            "quantity": 800000,
+            "share_own_percent": 0.00045941,
+            "update_date": "2025-02-03",
+            "percentage": "0.05%"
+        },
+        {
+            "id": "86846484",
+            "share_holder": "Quỹ Đầu tư Cổ phiếu Việt Nam Chọn lọc",
+            "quantity": 722910,
+            "share_own_percent": 0.0004151368,
+            "update_date": "2020-07-14",
+            "percentage": "0.04%"
+        },
+        {
+            "id": "86849152",
+            "share_holder": "Trần Minh Văn",
+            "quantity": 887236,
+            "share_own_percent": 0.0004,
+            "update_date": "2025-03-05",
+            "percentage": "0.04%"
+        },
+        {
+            "id": "86846328",
+            "share_holder": "Quỹ Đầu tư Chứng Khoán Năng động DC",
+            "quantity": 548857,
+            "share_own_percent": 0.00031519,
+            "update_date": "2025-02-03",
+            "percentage": "0.03%"
+        },
+        {
+            "id": "86830107",
+            "share_holder": "Indochina Capital Vietnam Holdings Ltd.",
+            "quantity": 376800,
+            "share_own_percent": 0.0003139635,
+            "update_date": "2015-06-15",
+            "percentage": "0.03%"
+        },
+        {
+            "id": "86832184",
+            "share_holder": "Lê Thị Ngọc Thuý",
+            "quantity": 619303,
+            "share_own_percent": 0.0002963,
+            "update_date": "2025-07-29",
+            "percentage": "0.03%"
+        },
+        {
+            "id": "86833620",
+            "share_holder": "Mai Hoài Anh",
+            "quantity": 512511,
+            "share_own_percent": 0.000245,
+            "update_date": "2022-10-31",
+            "percentage": "0.02%"
+        },
+        {
+            "id": "86831772",
+            "share_holder": "Lê Thành Liêm",
+            "quantity": 493381,
+            "share_own_percent": 0.0002361,
+            "update_date": "2025-07-29",
+            "percentage": "0.02%"
+        },
+        {
+            "id": "86840147",
+            "share_holder": "Nguyễn Thị Như Hằng",
+            "quantity": 279572,
+            "share_own_percent": 0.0002329496,
+            "update_date": "2015-09-14",
+            "percentage": "0.02%"
+        },
+        {
+            "id": "86846440",
+            "share_holder": "Quỹ Đầu tư Cổ phiếu Tập trung Cổ tức DC",
+            "quantity": 400000,
+            "share_own_percent": 0.0002297032,
+            "update_date": "2020-07-14",
+            "percentage": "0.02%"
+        },
+        {
+            "id": "86836428",
+            "share_holder": "Nguyễn Hữu Ngọc Trân",
+            "quantity": 211117,
+            "share_own_percent": 0.0001759103,
+            "update_date": "2015-09-14",
+            "percentage": "0.02%"
+        },
+        {
+            "id": "86846360",
+            "share_holder": "Quỹ Đầu tư Cổ phiếu Hưng Thịnh Vinacapital",
+            "quantity": 272983,
+            "share_own_percent": 0.0001567627,
+            "update_date": "2020-07-14",
+            "percentage": "0.02%"
+        },
+        {
+            "id": "86828019",
+            "share_holder": "Dương Thị Ngọc Trinh",
+            "quantity": 275976,
+            "share_own_percent": 0.000132,
+            "update_date": "2022-08-02",
+            "percentage": "0.01%"
+        },
+        {
+            "id": "86836996",
+            "share_holder": "Nguyễn Minh Ân",
+            "quantity": 251721,
+            "share_own_percent": 0.00012,
+            "update_date": "2022-02-22",
+            "percentage": "0.01%"
+        },
+        {
+            "id": "86831588",
+            "share_holder": "Lê Quang Thanh Trúc",
+            "quantity": 222037,
+            "share_own_percent": 0.0001062,
+            "update_date": "2025-07-29",
+            "percentage": "0.01%"
+        },
+        {
+            "id": "86851056",
+            "share_holder": "Trịnh Quốc Dũng",
+            "quantity": 241950,
+            "share_own_percent": 0.0001,
+            "update_date": "2023-08-07",
+            "percentage": "0.01%"
+        },
+        {
+            "id": "86845468",
+            "share_holder": "Phan Minh Tiên",
+            "quantity": 115716,
+            "share_own_percent": 0.0001,
+            "update_date": "2021-04-02",
+            "percentage": "0.01%"
+        },
+        {
+            "id": "86846735",
+            "share_holder": "Quỹ ETF SSIAM VNX50",
+            "quantity": 145692,
+            "share_own_percent": 8.36648e-05,
+            "update_date": "2020-07-14",
+            "percentage": "0.01%"
+        },
+        {
+            "id": "86846310",
+            "share_holder": "Quỹ Đầu tư Chủ động VND",
+            "quantity": 145076,
+            "share_own_percent": 8.331e-05,
+            "update_date": "2025-02-03",
+            "percentage": "0.01%"
+        },
+        {
+            "id": "86844037",
+            "share_holder": "Phạm Phú Tuấn",
+            "quantity": 84820,
+            "share_own_percent": 7.06751e-05,
+            "update_date": "2015-09-14",
+            "percentage": "0.01%"
+        },
+        {
+            "id": "86821106",
+            "share_holder": "Bùi Thị Hương",
+            "quantity": 134176,
+            "share_own_percent": 6.42e-05,
+            "update_date": "2025-07-29",
+            "percentage": "0.01%"
+        },
+        {
+            "id": "86824755",
+            "share_holder": "Công ty TNHH Quản lý Quỹ Bảo Việt",
+            "quantity": 54726,
+            "share_own_percent": 4.55997e-05,
+            "update_date": "2015-06-15",
+            "percentage": "0.00%"
+        },
+        {
+            "id": "86846285",
+            "share_holder": "Quỹ Đầu tư Cân bằng Chiến Lược VCBF",
+            "quantity": 77964,
+            "share_own_percent": 4.477e-05,
+            "update_date": "2025-02-03",
+            "percentage": "0.00%"
+        },
+        {
+            "id": "86846434",
+            "share_holder": "Quỹ Đầu tư Cổ phiếu Năng động Bảo Việt",
+            "quantity": 57012,
+            "share_own_percent": 3.27396e-05,
+            "update_date": "2020-07-14",
+            "percentage": "0.00%"
+        },
+        {
+            "id": "86841590",
+            "share_holder": "Nguyễn Trung Kiên",
+            "quantity": 38880,
+            "share_own_percent": 3e-05,
+            "update_date": "2017-02-08",
+            "percentage": "0.00%"
+        },
+        {
+            "id": "86846284",
+            "share_holder": "Quỹ Đầu tư Cân bằng Bản Việt",
+            "quantity": 48000,
+            "share_own_percent": 2.75644e-05,
+            "update_date": "2020-07-14",
+            "percentage": "0.00%"
+        },
+        {
+            "id": "86846400",
+            "share_holder": "Quỹ Đầu tư Cổ phiếu Manulife",
+            "quantity": 47910,
+            "share_own_percent": 2.75127e-05,
+            "update_date": "2020-07-14",
+            "percentage": "0.00%"
+        },
+        {
+            "id": "86846601",
+            "share_holder": "Quỹ Đầu tư Tăng trưởng DFVN",
+            "quantity": 47000,
+            "share_own_percent": 2.69901e-05,
+            "update_date": "2020-07-14",
+            "percentage": "0.00%"
+        },
+        {
+            "id": "86846483",
+            "share_holder": "Quỹ Đầu tư Cổ phiếu Triển vọng Bảo Việt",
+            "quantity": 45000,
+            "share_own_percent": 2.58416e-05,
+            "update_date": "2020-07-14",
+            "percentage": "0.00%"
+        },
+        {
+            "id": "86840993",
+            "share_holder": "Nguyễn Thị Tuyết Mai",
+            "quantity": 35000,
+            "share_own_percent": 2.4e-05,
+            "update_date": "2017-02-08",
+            "percentage": "0.00%"
+        },
+        {
+            "id": "86846545",
+            "share_holder": "Quỹ Đầu tư Năng động Eastspring Investments Việt Nam",
+            "quantity": 41720,
+            "share_own_percent": 2.3958e-05,
+            "update_date": "2020-07-14",
+            "percentage": "0.00%"
+        },
+        {
+            "id": "86824584",
+            "share_holder": "Công ty TNHH MTV Quản Lý Quỹ Ngân Hàng Thương Mại Cổ phần Công Thương Việt Nam",
+            "quantity": 25200,
+            "share_own_percent": 2.09975e-05,
+            "update_date": "2015-06-15",
+            "percentage": "0.00%"
+        },
+        {
+            "id": "86837975",
+            "share_holder": "Nguyễn Quốc Khánh",
+            "quantity": 29755,
+            "share_own_percent": 1.42e-05,
+            "update_date": "2025-07-29",
+            "percentage": "0.00%"
+        },
+        {
+            "id": "86834500",
+            "share_holder": "Ngô Thị Thu Trang",
+            "quantity": 9453,
+            "share_own_percent": 6.5e-06,
+            "update_date": "2018-02-23",
+            "percentage": "0.00%"
+        },
+        {
+            "id": "86833675",
+            "share_holder": "Mai Quang Liêm",
+            "quantity": 5786,
+            "share_own_percent": 2.7e-06,
+            "update_date": "2025-01-24",
+            "percentage": "0.00%"
+        },
+        {
+            "id": "86853634",
+            "share_holder": "Vũ Trí Thức",
+            "quantity": 4000,
+            "share_own_percent": 2e-06,
+            "update_date": "2025-07-29",
+            "percentage": "0.00%"
+        }
+    ],
+    "subsidiaries": [
+        {
+            "id": "24582815",
+            "sub_organ_code": "ANGKORDP",
+            "ownership_percent": 1.0,
+            "organ_name": "Angkor Dairy Products Co., Ltd",
+            "type": "công ty con",
+            "percentage": "100.00%"
+        },
+        {
+            "id": "24582816",
+            "sub_organ_code": "DRIFTW",
+            "ownership_percent": 1.0,
+            "organ_name": "Driftwood Dairy Holdings Corporation",
+            "type": "công ty con",
+            "percentage": "100.00%"
+        },
+        {
+            "id": "24582817",
+            "sub_organ_code": "LAOJAGRO",
+            "ownership_percent": 0.8732,
+            "organ_name": "Lao-jagro Development Xiengkhouang Co.,ltd",
+            "type": "công ty con",
+            "percentage": "87.32%"
+        },
+        {
+            "id": "24582818",
+            "sub_organ_code": "TNTHCM",
+            "ownership_percent": 1.0,
+            "organ_name": "Công ty TNHH Một Thành Viên Bò Sữa Thống Nhất Thanh Hoá",
+            "type": "công ty con",
+            "percentage": "100.00%"
+        },
+        {
+            "id": "24582819",
+            "sub_organ_code": "VIETSUGAR",
+            "ownership_percent": 0.65,
+            "organ_name": "Công ty Cổ phần Đường Việt Nam",
+            "type": "công ty con",
+            "percentage": "65.00%"
+        },
+        {
+            "id": "24582820",
+            "sub_organ_code": "VILICO",
+            "ownership_percent": 0.6894,
+            "organ_name": "Tổng Công ty Chăn nuôi Việt Nam - Công ty Cổ phần",
+            "type": "công ty con",
+            "percentage": "68.94%"
+        },
+        {
+            "id": "24582821",
+            "sub_organ_code": "VNMC",
+            "ownership_percent": 1.0,
+            "organ_name": "Công ty TNHH MTV Bò Sữa Việt Nam",
+            "type": "công ty con",
+            "percentage": "100.00%"
+        },
+        {
+            "id": "24582822",
+            "sub_organ_code": "APIS",
+            "ownership_percent": 0.2,
+            "organ_name": "Công Ty Cổ Phần Apis",
+            "type": "công ty liên kết",
+            "percentage": "20.00%"
+        },
+        {
+            "id": "24582823",
+            "sub_organ_code": "ASIACOCONUT",
+            "ownership_percent": 0.2496,
+            "organ_name": "Công ty Cổ Phần Chế Biến Dừa Á Châu",
+            "type": "công ty liên kết",
+            "percentage": "24.96%"
+        },
+        {
+            "id": "24582824",
+            "sub_organ_code": "F000001208",
+            "ownership_percent": 0.1355,
+            "organ_name": "Miraka Holding Limited",
+            "type": "công ty liên kết",
+            "percentage": "13.55%"
+        }
+    ],
+    "affiliates": [
+        {
+            "id": "24582822",
+            "sub_organ_code": "APIS",
+            "organ_name": "Công Ty Cổ Phần Apis",
+            "ownership_percent": 0.2,
+            "percentage": "20.00%"
+        },
+        {
+            "id": "24582823",
+            "sub_organ_code": "ASIACOCONUT",
+            "organ_name": "Công ty Cổ Phần Chế Biến Dừa Á Châu",
+            "ownership_percent": 0.2496,
+            "percentage": "24.96%"
+        },
+        {
+            "id": "24582824",
+            "sub_organ_code": "F000001208",
+            "organ_name": "Miraka Holding Limited",
+            "ownership_percent": 0.1355,
+            "percentage": "13.55%"
+        }
+    ],
+    "officers": [
+        {
+            "id": "17",
+            "officer_name": "Mai Kiều Liên",
+            "officer_position": "Tổng Giám đốc/Phụ trách Công bố thông tin/Thành viên Hội đồng Quản trị",
+            "position_short_name": "TGĐ/Phụ trách CBTT/TV HĐQT",
+            "update_date": "2025-08-14",
+            "officer_own_percent": 0.0031,
+            "quantity": 6400444,
+            "percentage": "0.31%"
+        },
+        {
+            "id": "4",
+            "officer_name": "Nguyễn Thị Thanh Hòa",
+            "officer_position": "Giám đốc điều hành chuỗi cung ứng",
+            "position_short_name": "GĐ Điều hành chuỗi cung ứng",
+            "update_date": "2025-03-05",
+            "officer_own_percent": 0.0005,
+            "quantity": 1108184,
+            "percentage": "0.05%"
+        },
+        {
+            "id": "5",
+            "officer_name": "Trần Minh Văn",
+            "officer_position": "Giám đốc điều hành sản xuất",
+            "position_short_name": "GĐ Điều hành sản xuất",
+            "update_date": "2025-03-05",
+            "officer_own_percent": 0.0004,
+            "quantity": 887236,
+            "percentage": "0.04%"
+        },
+        {
+            "id": "16",
+            "officer_name": "Lê Thành Liêm",
+            "officer_position": "Thành viên Hội đồng Quản trị/Giám đốc Tài chính/Kế toán trưởng",
+            "position_short_name": "TV HĐQT/GĐ Tài chính/Kế toán trưởng",
+            "update_date": "2025-07-31",
+            "officer_own_percent": 0.0002361,
+            "quantity": 493381,
+            "percentage": "0.02%"
+        },
+        {
+            "id": "3",
+            "officer_name": "Trịnh Quốc Dũng",
+            "officer_position": "Giám đốc điều hành Phát triển vùng nguyên vật liệu",
+            "position_short_name": "GĐ Điều hành phát triển vùng nguyên liệu",
+            "update_date": "2023-08-07",
+            "officer_own_percent": 0.0001,
+            "quantity": 241950,
+            "percentage": "0.01%"
+        }
+    ]
+}

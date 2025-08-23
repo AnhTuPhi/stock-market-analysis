@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: checkout repo content
         uses: actions/checkout@v4
+        with:
+          ref: dev # checkout dev branch
 
       - name: setup python
         uses: actions/setup-python@v5

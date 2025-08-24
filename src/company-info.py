@@ -1,3 +1,4 @@
+import logging
 import os.path
 
 from vnstock import Company
@@ -14,34 +15,100 @@ def get_list_symbols() -> Any:
     with open(WATCHLIST_FILE, "r", encoding="utf-8") as stream:
         return [line.strip() for line in stream if line.strip()]
 
+def safe_fetch(fetch_fn, name, symbol, to_records=True, single=False):
+    try:
+        df = fetch_fn()
+        if df is None or df.empty:
+            return {} if single else []
+        records = df.to_dict(orient="records")
+        return records[0] if single else records
+    except Exception as e:
+        logger.error("{}() failed for {}: {}", name, symbol, e)
+        return {} if single else []
+
+def format_subsidiaries(officers: list[dict]) -> list[dict]:
+    result = []
+    for o in officers:
+        o = o.copy()
+        if "ownership_percent" in o and isinstance(o["ownership_percent"], (int, float)):
+            o["percentage"] = f"{o['ownership_percent'] * 100:.2f}%"
+        result.append(o)
+    return result
+
+def format_shareholders(officers: list[dict]) -> list[dict]:
+    result = []
+    for o in officers:
+        o = o.copy()
+        if "share_own_percent" in o and isinstance(o["share_own_percent"], (int, float)):
+            o["percentage"] = f"{o['share_own_percent'] * 100:.2f}%"
+        result.append(o)
+    return result
+
+def format_affiliates(officers: list[dict]) -> list[dict]:
+    result = []
+    for o in officers:
+        o = o.copy()
+        if "ownership_percent" in o and isinstance(o["ownership_percent"], (int, float)):
+            o["percentage"] = f"{o['ownership_percent'] * 100:.2f}%"
+        result.append(o)
+    return result
+
+def format_officers(officers: list[dict]) -> list[dict]:
+    result = []
+    for o in officers:
+        o = o.copy()
+        if "officer_own_percent" in o and isinstance(o["officer_own_percent"], (int, float)):
+            o["percentage"] = f"{o['officer_own_percent'] * 100:.2f}%"
+        result.append(o)
+    return result
+
 def get_company_info(symbol: str) -> Dict[str, Any]:
     logger.info("Fetching company info of {}", symbol)
 
     try:
         company_info = Company(symbol=symbol, source="VCI")
-        overview_df = company_info.overview()
-
-        if overview_df is None:
-            logger.warning("No data found for {}", symbol)
-            return {}
-
-        return overview_df.to_dict(orient="records")[0]
-
+        return {
+            "overview": safe_fetch(company_info.overview, "overview", symbol, single=True),
+            "shareholders": format_shareholders(
+                safe_fetch(company_info.shareholders, "shareholders", symbol)
+            ),
+            "subsidiaries": format_subsidiaries(
+                safe_fetch(company_info.subsidiaries, "subsidiaries", symbol)
+            ),
+            "affiliates": format_affiliates(
+                safe_fetch(company_info.affiliate, "affiliate", symbol)
+            ),
+            "officers": format_officers(
+                safe_fetch(lambda: company_info.officers(filter_by="working").head(),"officers", symbol)
+            ),
+        }
     except Exception as ex:
         logger.error("Fetching company info of {} got error: {}", symbol, ex)
         return {}
 
-def save_data(symbol: str, company_info: Dict[str, Any]) -> None:
+
+def save_overview_data(symbol: str) -> None:
     logger.info("Saving company info of {}", symbol)
-    if not company_info:
-        return
 
     stock_dir = os.path.join(OUTPUT_DIR, symbol)
     os.makedirs(stock_dir, exist_ok=True)
 
-    output_file = os.path.join(stock_dir, f"{symbol}.json")
+    output_file = os.path.join(stock_dir, f"{symbol}_OVERVIEW.json")
+    if os.path.exists(output_file):
+        with open(output_file, "r", encoding="utf-8") as stream:
+            try :
+                exist_data = json.load(stream)
+            except json.JSONDecodeError:
+                exist_data = {}
+    else:
+        exist_data = {}
+
+    # Update overview
+    company_info = get_company_info(symbol)
+    exist_data.update(company_info)
+
     with open(output_file, "w", encoding="utf-8") as stream:
-        json.dump(company_info, stream, ensure_ascii=False, indent=4)
+        json.dump(exist_data, stream, ensure_ascii=False, indent=4)
 
     logger.success("Saved {} info to {}", symbol, output_file)
 
@@ -52,5 +119,4 @@ if __name__ == '__main__':
     logger.info("Found {} symbols in watchlist: {}", len(symbols), symbols)
 
     for symbol in symbols:
-        company_info = get_company_info(symbol)
-        save_data(symbol, company_info)
+        save_overview_data(symbol)

@@ -9,7 +9,7 @@ on:
 jobs:
   fetch-data:
     runs-on: ubuntu-24.04
-    environment: secrets
+    environment: prod
     steps:
       - name: checkout repo content
         uses: actions/checkout@v4
@@ -32,7 +32,7 @@ jobs:
       - name: fetch company info
         run: |
           cd src
-          uv run python gcompany-info.py
+          uv run python company-info.py
 
       - name: notify telegram private group
         env:

@@ -3,8 +3,6 @@ name: Fetching Company Info UAT
 on:
   push:
     branches: [ "dev" ]
-  schedule:
-    - cron: 35 11 * * * # 6:35 PM in Vietnam
 
 jobs:
   fetch-data:
@@ -34,6 +32,13 @@ jobs:
         run: |
           cd src
           uv run python company-info.py
+
+      - name: notify telegram private group
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          uv run python notification-overview.py
 
       - name: get current date
         run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_ENV

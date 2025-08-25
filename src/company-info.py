@@ -1,10 +1,12 @@
 import logging
 import os.path
 
+from tenacity import sleep
 from vnstock import Company
 from loguru import logger
 import json
 from typing import Any, Dict
+import time
 
 WATCHLIST_FILE = "../data/watchlist.txt"
 OUTPUT_DIR = "../data/stock"
@@ -119,4 +121,9 @@ if __name__ == '__main__':
     logger.info("Found {} symbols in watchlist: {}", len(symbols), symbols)
 
     for symbol in symbols:
-        save_overview_data(symbol)
+        try:
+            save_overview_data(symbol)
+        except Exception as e:
+            logger.error("Fetch data {} error due to {}", symbol, e)
+            time.sleep(15) # Back-off on error, especially rate-limit
+        time.sleep(5) # Add delay to reduce rate-limit issues

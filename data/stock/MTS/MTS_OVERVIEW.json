@@ -1,0 +1,206 @@
+{
+    "overview": {
+        "symbol": "MTS",
+        "id": "76433",
+        "issue_share": 15000000,
+        "history": " - Năm 1960: Công ty Cổ phần Vật tư – TKV, tiền thân là Xí nghiệp Vật tư, Vận tải và Xếp dỡ trực thuộc Công ty Than Cẩm Phả được thành lập;  - Tháng 05/1996: Nâng cấp thành Công ty Vật tư, Vận tải và Xếp dỡ;  - Ngày 08/11/2006: Đổi tên thành Công ty Vật tư Vận tải và Xếp dỡ  - TKV theo Quyết định số 2467/QĐ-HĐQT của Tập đoàn Công nghiệp Than  - Khoáng sản Việt Nam;  - Ngày 15/06/2010: Bộ Công thương ban hành Quyết định số 3127/QĐ-BCT về việc chuyển Công ty thành Công ty TNHH MTV Vật tư Vận tải và Xếp dỡ  - Vinacomin trực thuộc Tập đoàn Công nghiệp Than  - Khoáng sản Việt Nam;  - Ngày 18/12/2013: Tập đoàn Công nghiệp Than  - Khoáng sản Việt Nam ban hành Quyết định số 2378/QĐ-Vinacomin về việc phê duyệt phương án cổ phần hóa và chuyển Công ty TNHH MTV Vật tư Vận tải và Xếp dỡ  - Vinacomin thành công ty cổ phần;  - Ngày 26/02/2014: Đấu giá cổ phần lần đầu ra công chúng (IPO) tại Sở Giao dịch Chứng khoán Hà Nội (HNX) với 321.500 cổ phần được đấu giá thành công và mức giá đấu thành công bình quân là 10.002 đồng/cổ phần;  - Ngày 01/05/2014: Chính thức hoạt động theo mô hình công ty cổ phần và đổi tên thành Công ty Cổ phần Vật tư – TKV với vốn điều lệ 150 tỷ đồng theo Giấy chứng nhận đăng ký doanh nghiệp số 5700100707 thay đổi lần thứ 6 bởi Sở Kế hoạch và Đầu tư tỉnh Quảng Ninh;  - Ngày 19/11/2014: Trở thành công ty đại chúng;  - Ngày 28/04/2017: Giao dịch trên thị trường UPCOM;",
+        "company_profile": "Công ty Cổ phần Vật tư  - TKV (MTS) có tiền thân là Xí nghiệp Vật tư, Vận tải và Xếp dỡ trực thuộc Công ty Than Cẩm Phả, được thành lập vào năm 1960. MTS hoạt động chủ yếu trong lĩnh vực cung cấp vật tư thiết bị, xăng dầu và các dịch vụ liên quan phục vụ cho ngành khai thác khoáng sản. Công ty chính thức hoạt động theo mô hình công ty cổ phần từ tháng 05/2014. MTS đang cung cấp tới 95% lượng nhiên liệu (xăng, dầu DO, dầu FO) phục vụ cho công nghiệp khai thác than, và nhiệt điện trên địa bàn tỉnh Quảng Ninh. MTS đang quản lý vận hành dây chuyền sản xuất dầu nhờn Cominlub với công suất 7,2 triệu lít/năm. Bên cạnh đó, MTS đã đầu tư phát triển đội tàu và sà lan với công suất vận tải đạt xấp xỉ 900.000 tấn/năm. Ngày 28/04/2017, MTS chính thức được giao dịch trên thị trường UPCOM.",
+        "icb_name3": "Tư vấn & Hỗ trợ Kinh doanh",
+        "icb_name2": "Hàng & Dịch vụ Công nghiệp",
+        "icb_name4": "Nhà cung cấp thiết bị",
+        "financial_ratio_issue_share": 15000000,
+        "charter_capital": 150000000000
+    },
+    "shareholders": [
+        {
+            "id": "86981737",
+            "share_holder": "Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam",
+            "quantity": 7650000,
+            "share_own_percent": 0.51,
+            "update_date": "2025-04-01",
+            "percentage": "51.00%"
+        },
+        {
+            "id": "86959029",
+            "share_holder": "Công Ty TNHH Một Thành Viên Đại Vạn Phú",
+            "quantity": 2650000,
+            "share_own_percent": 0.1767,
+            "update_date": "2025-04-01",
+            "percentage": "17.67%"
+        },
+        {
+            "id": "86976771",
+            "share_holder": "NGUYỄN VĂN HUYỀN",
+            "quantity": 1116863,
+            "share_own_percent": 0.0745,
+            "update_date": "2024-09-20",
+            "percentage": "7.45%"
+        },
+        {
+            "id": "86968034",
+            "share_holder": "LƯU TUYẾT HƯƠNG",
+            "quantity": 1100000,
+            "share_own_percent": 0.0733,
+            "update_date": "2024-09-20",
+            "percentage": "7.33%"
+        },
+        {
+            "id": "86981838",
+            "share_holder": "Tạ Quang Tuấn",
+            "quantity": 163298,
+            "share_own_percent": 0.0108865,
+            "update_date": "2025-01-22",
+            "percentage": "1.09%"
+        },
+        {
+            "id": "86973305",
+            "share_holder": "Nguyễn Thế Hùng",
+            "quantity": 17000,
+            "share_own_percent": 0.0011333,
+            "update_date": "2025-07-22",
+            "percentage": "0.11%"
+        },
+        {
+            "id": "86977303",
+            "share_holder": "Nguyễn Văn Tuân",
+            "quantity": 10300,
+            "share_own_percent": 0.0006867,
+            "update_date": "2025-07-22",
+            "percentage": "0.07%"
+        },
+        {
+            "id": "86982965",
+            "share_holder": "Tô Thị Lan",
+            "quantity": 10000,
+            "share_own_percent": 0.00066,
+            "update_date": "2023-03-09",
+            "percentage": "0.07%"
+        },
+        {
+            "id": "86971464",
+            "share_holder": "Nguyễn Mạnh Cường",
+            "quantity": 6400,
+            "share_own_percent": 0.00042,
+            "update_date": "2022-03-16",
+            "percentage": "0.04%"
+        },
+        {
+            "id": "86984102",
+            "share_holder": "Trần Quốc Thành",
+            "quantity": 5416,
+            "share_own_percent": 0.0004,
+            "update_date": "2017-03-28",
+            "percentage": "0.04%"
+        },
+        {
+            "id": "86965599",
+            "share_holder": "Lê Dũng",
+            "quantity": 5200,
+            "share_own_percent": 0.0003467,
+            "update_date": "2025-07-22",
+            "percentage": "0.03%"
+        },
+        {
+            "id": "86979573",
+            "share_holder": "Phạm Văn Hiền",
+            "quantity": 4900,
+            "share_own_percent": 0.0003,
+            "update_date": "2024-06-21",
+            "percentage": "0.03%"
+        },
+        {
+            "id": "86963330",
+            "share_holder": "Hoàng Kiên",
+            "quantity": 3200,
+            "share_own_percent": 0.0002133,
+            "update_date": "2025-07-22",
+            "percentage": "0.02%"
+        },
+        {
+            "id": "86966895",
+            "share_holder": "Lê Thị Thu Duyên",
+            "quantity": 2600,
+            "share_own_percent": 0.0002,
+            "update_date": "2023-07-12",
+            "percentage": "0.02%"
+        },
+        {
+            "id": "86986025",
+            "share_holder": "Trương Quang Vệ",
+            "quantity": 2700,
+            "share_own_percent": 0.0002,
+            "update_date": "2022-03-16",
+            "percentage": "0.02%"
+        },
+        {
+            "id": "86979680",
+            "share_holder": "Phạm Văn Quảng",
+            "quantity": 2600,
+            "share_own_percent": 0.00017,
+            "update_date": "2018-09-26",
+            "percentage": "0.02%"
+        },
+        {
+            "id": "86963897",
+            "share_holder": "Hoàng Xuân Tùng",
+            "quantity": 1100,
+            "share_own_percent": 7.33e-05,
+            "update_date": "2025-07-22",
+            "percentage": "0.01%"
+        }
+    ],
+    "subsidiaries": [],
+    "affiliates": [],
+    "officers": [
+        {
+            "id": "7",
+            "officer_name": "Tạ Quang Tuấn",
+            "officer_position": "Giám đốc/Thành viên Hội đồng Quản trị",
+            "position_short_name": "GĐ/TV HĐQT",
+            "update_date": "2025-01-22",
+            "officer_own_percent": 0.0108865,
+            "quantity": 163298,
+            "percentage": "1.09%"
+        },
+        {
+            "id": "9",
+            "officer_name": "Nguyễn Thế Hùng",
+            "officer_position": "Thành viên Hội đồng Quản trị/Phó Giám đốc",
+            "position_short_name": "TV HĐQT/Phó GĐ",
+            "update_date": "2025-07-22",
+            "officer_own_percent": 0.0011333,
+            "quantity": 17000,
+            "percentage": "0.11%"
+        },
+        {
+            "id": "4",
+            "officer_name": "Tô Thị Lan",
+            "officer_position": "Thành viên Ban kiểm soát",
+            "position_short_name": "TV BKS",
+            "update_date": "2023-03-09",
+            "officer_own_percent": 0.00066,
+            "quantity": 10000,
+            "percentage": "0.07%"
+        },
+        {
+            "id": "1",
+            "officer_name": "Nguyễn Mạnh Cường",
+            "officer_position": "Phó Giám đốc",
+            "position_short_name": "Phó GĐ",
+            "update_date": "2017-03-28",
+            "officer_own_percent": 0.00042,
+            "quantity": 6400,
+            "percentage": "0.04%"
+        },
+        {
+            "id": "10",
+            "officer_name": "Lê Dũng",
+            "officer_position": "Thành viên Hội đồng Quản trị",
+            "position_short_name": "TV HĐQT",
+            "update_date": "2025-07-22",
+            "officer_own_percent": 0.0003467,
+            "quantity": 5200,
+            "percentage": "0.03%"
+        }
+    ]
+}

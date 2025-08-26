@@ -26,7 +26,10 @@ if __name__ == '__main__':
     )
 
     try:
-        noti.send_message(
-            message="🔥 Thông tin tổng quan mỗi tuần đã được tổng hợp tại: https://github.com/AnhTuPhi/stock-market-analysis/tree/master/data/stock")
+        with open("../templates/TEMP_OVERVIEW_WEEKLY.md", "r", encoding="utf-8") as stream:
+            content = stream.read()
+
+        noti.send_message(message=content)
+        logger.info("Already sent notification")
     except Exception as e:
         logger.error("Notifying overview error: {}", e)

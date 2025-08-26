@@ -13,7 +13,7 @@
     },
     "shareholders": [
         {
-            "id": "86981737",
+            "id": "87049051",
             "share_holder": "Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam",
             "quantity": 7650000,
             "share_own_percent": 0.51,
@@ -21,7 +21,7 @@
             "percentage": "51.00%"
         },
         {
-            "id": "86959029",
+            "id": "87026345",
             "share_holder": "Công Ty TNHH Một Thành Viên Đại Vạn Phú",
             "quantity": 2650000,
             "share_own_percent": 0.1767,
@@ -29,7 +29,7 @@
             "percentage": "17.67%"
         },
         {
-            "id": "86976771",
+            "id": "87044090",
             "share_holder": "NGUYỄN VĂN HUYỀN",
             "quantity": 1116863,
             "share_own_percent": 0.0745,
@@ -37,7 +37,7 @@
             "percentage": "7.45%"
         },
         {
-            "id": "86968034",
+            "id": "87035347",
             "share_holder": "LƯU TUYẾT HƯƠNG",
             "quantity": 1100000,
             "share_own_percent": 0.0733,
@@ -45,7 +45,7 @@
             "percentage": "7.33%"
         },
         {
-            "id": "86981838",
+            "id": "87049152",
             "share_holder": "Tạ Quang Tuấn",
             "quantity": 163298,
             "share_own_percent": 0.0108865,
@@ -53,7 +53,7 @@
             "percentage": "1.09%"
         },
         {
-            "id": "86973305",
+            "id": "87040626",
             "share_holder": "Nguyễn Thế Hùng",
             "quantity": 17000,
             "share_own_percent": 0.0011333,
@@ -61,7 +61,7 @@
             "percentage": "0.11%"
         },
         {
-            "id": "86977303",
+            "id": "87044622",
             "share_holder": "Nguyễn Văn Tuân",
             "quantity": 10300,
             "share_own_percent": 0.0006867,
@@ -69,7 +69,7 @@
             "percentage": "0.07%"
         },
         {
-            "id": "86982965",
+            "id": "87050278",
             "share_holder": "Tô Thị Lan",
             "quantity": 10000,
             "share_own_percent": 0.00066,
@@ -77,7 +77,7 @@
             "percentage": "0.07%"
         },
         {
-            "id": "86971464",
+            "id": "87038783",
             "share_holder": "Nguyễn Mạnh Cường",
             "quantity": 6400,
             "share_own_percent": 0.00042,
@@ -85,7 +85,7 @@
             "percentage": "0.04%"
         },
         {
-            "id": "86984102",
+            "id": "87051413",
             "share_holder": "Trần Quốc Thành",
             "quantity": 5416,
             "share_own_percent": 0.0004,
@@ -93,7 +93,7 @@
             "percentage": "0.04%"
         },
         {
-            "id": "86965599",
+            "id": "87032914",
             "share_holder": "Lê Dũng",
             "quantity": 5200,
             "share_own_percent": 0.0003467,
@@ -101,7 +101,7 @@
             "percentage": "0.03%"
         },
         {
-            "id": "86979573",
+            "id": "87046890",
             "share_holder": "Phạm Văn Hiền",
             "quantity": 4900,
             "share_own_percent": 0.0003,
@@ -109,7 +109,7 @@
             "percentage": "0.03%"
         },
         {
-            "id": "86963330",
+            "id": "87030650",
             "share_holder": "Hoàng Kiên",
             "quantity": 3200,
             "share_own_percent": 0.0002133,
@@ -117,7 +117,7 @@
             "percentage": "0.02%"
         },
         {
-            "id": "86966895",
+            "id": "87034206",
             "share_holder": "Lê Thị Thu Duyên",
             "quantity": 2600,
             "share_own_percent": 0.0002,
@@ -125,7 +125,7 @@
             "percentage": "0.02%"
         },
         {
-            "id": "86986025",
+            "id": "87053341",
             "share_holder": "Trương Quang Vệ",
             "quantity": 2700,
             "share_own_percent": 0.0002,
@@ -133,7 +133,7 @@
             "percentage": "0.02%"
         },
         {
-            "id": "86979680",
+            "id": "87046997",
             "share_holder": "Phạm Văn Quảng",
             "quantity": 2600,
             "share_own_percent": 0.00017,
@@ -141,7 +141,7 @@
             "percentage": "0.02%"
         },
         {
-            "id": "86963897",
+            "id": "87031218",
             "share_holder": "Hoàng Xuân Tùng",
             "quantity": 1100,
             "share_own_percent": 7.33e-05,

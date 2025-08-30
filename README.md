@@ -121,7 +121,7 @@ uv run python xxx.py
 
 ## 📖 References
 
-Document references at [this]()
+Document references in [this]()
 
 ## 📄 License
 

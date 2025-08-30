@@ -1,8 +1,6 @@
 name: Fetching Company Info PROD
 
 on:
-  push:
-    branches: [ "master" ]
   schedule:
     - cron: 0 17 * * 0 # 00:00 PM in Vietnam
 

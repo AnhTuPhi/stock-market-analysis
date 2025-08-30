@@ -26,9 +26,8 @@ if __name__ == '__main__':
     )
 
     try:
-        with open("../templates/TEMP_OVERVIEW_WEEKLY.md", "r", encoding="utf-8") as stream:
+        with open("../templates/TEMP_OVERVIEW_WEEKLY.j2", "r", encoding="utf-8") as stream:
             content = stream.read()
-
         noti.send_message(message=content)
         logger.info("Already sent notification")
     except Exception as e:

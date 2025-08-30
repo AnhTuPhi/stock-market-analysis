@@ -1,0 +1,37 @@
+name: Fetching VNINDEX UAT
+
+on:
+  push:
+    branches: [ "dev" ]
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-24.04
+    environment: secrets
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v4
+        with:
+          ref: dev # checkout dev branch
+          fetch-depth: 0
+
+      - name: setup python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: install uv
+        run: |
+          pip install uv
+
+      - name: install dependencies with uv
+        run: |
+          uv sync --frozen
+
+      - name: fetch vnindex
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          cd src
+          uv run python fetch-vnindex.py

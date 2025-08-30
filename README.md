@@ -4,7 +4,7 @@
 
 - [📖 Description](#-description)
 - [📦 Boilerplate](#-boilerplate)
-- [🕵️ Features](#-features)
+- [🔎 Features](#-features)
 - [⚙️ How it works?](#-how-it-works)
 - [🚀 Installation & Usage](#-installation--usage)
 - [📖 References](#-references)
@@ -39,7 +39,7 @@ and risks.
 Fork from original
 repo [clean architecture python boilerplate](https://github.com/AnhTuPhi/clean-architecture-python-boilerplate)
 
-## 🕵️ Features
+## 🔎 Features
 
 - Data Collection & Preprocessing: Fetch real-time and historical stock prices, indices, and trading volumes; clean and
   normalize datasets for analysis. (in developing)

@@ -121,7 +121,7 @@ uv run python xxx.py
 
 ## 📖 References
 
-Document references in [this]()
+Document references in [this](https://github.com/AnhTuPhi/stock-market-analysis/blob/master/REFERENCES.md)
 
 ## 📄 License
 

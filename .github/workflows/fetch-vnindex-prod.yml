@@ -1,0 +1,41 @@
+name: Fetching VNINDEX PROD
+
+on:
+  push:
+    branches: [ "master" ]
+  schedule:
+    - cron: "15 1-3 * * 1-5"   # 08:15, 09:15, 10:15 VN
+    - cron: "0 6-8 * * 1-5"    # 13:00, 14:00, 15:00 VN
+  workflow_dispatch:            # ✅ allows manual run
+
+jobs:
+  fetch-vnindex:
+    runs-on: ubuntu-24.04
+    environment: prod
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v4
+        with:
+          ref: dev # checkout dev branch
+          fetch-depth: 0
+
+      - name: setup python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: install uv
+        run: |
+          pip install uv
+
+      - name: install dependencies with uv
+        run: |
+          uv sync --frozen
+
+      - name: fetch vnindex
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          cd src
+          uv run python fetch-vnindex.py

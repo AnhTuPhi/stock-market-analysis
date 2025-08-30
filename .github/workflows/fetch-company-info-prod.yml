@@ -2,7 +2,8 @@ name: Fetching Company Info PROD
 
 on:
   schedule:
-    - cron: 0 17 * * 0 # 00:00 PM in Vietnam
+    - cron: 0 17 * * 0          # 00:00 PM in Vietnam
+  workflow_dispatch:            # ✅ allows manual run
 
 jobs:
   fetch-data:

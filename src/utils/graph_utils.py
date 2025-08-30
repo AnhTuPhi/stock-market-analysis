@@ -3,7 +3,8 @@ from io import BytesIO
 
 import pandas as pd
 from matplotlib import pyplot as plt
-from pandas_ta import sma
+
+from src.pandas_ta import sma
 
 
 def generate_graph(klines: pd.DataFrame) -> bytes:

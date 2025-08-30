@@ -45,4 +45,4 @@ if __name__ == '__main__':
     with tempfile.NamedTemporaryFile(suffix=".png", delete=False) as tmp:
         tmp.write(photo_bytes)
         tmp.flush()
-        notification.send_photo(message="Vnindex", title="Vnindex title", file_path=tmp.name)
+        notification.send_photo(message=caption, title=caption, file_path=tmp.name)

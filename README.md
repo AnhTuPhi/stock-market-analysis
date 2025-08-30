@@ -127,3 +127,9 @@ Document references in [this]()
 
 This project is licensed under the MIT License - see
 the [LICENSE](https://github.com/AnhTuPhi/stock-market-analysis/blob/master/LICENSE) file for details.
+
+---
+
+<div align="center">
+  <strong>⭐ If you find this project useful, please consider giving it a star!</strong>
+</div>

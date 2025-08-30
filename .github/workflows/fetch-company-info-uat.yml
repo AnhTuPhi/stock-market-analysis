@@ -1,8 +1,9 @@
 name: Fetching Company Info UAT
 
 on:
-  push:
-    branches: [ "dev" ]
+  #  push:
+  #    branches: [ "dev" ]
+  workflow_dispatch:
 
 jobs:
   fetch-data:

@@ -13,139 +13,139 @@
     },
     "shareholders": [
         {
-            "id": "89747819",
+            "id": "90218393",
             "share_holder": "Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam",
             "quantity": 7650000,
             "share_own_percent": 0.51,
-            "update_date": "2025-04-01",
+            "update_date": "2025-10-05",
             "percentage": "51.00%"
         },
         {
-            "id": "89725031",
+            "id": "90195722",
             "share_holder": "Công Ty TNHH Một Thành Viên Đại Vạn Phú",
             "quantity": 2650000,
             "share_own_percent": 0.1767,
-            "update_date": "2025-04-01",
+            "update_date": "2025-10-05",
             "percentage": "17.67%"
         },
         {
-            "id": "89742838",
+            "id": "90213431",
             "share_holder": "NGUYỄN VĂN HUYỀN",
             "quantity": 1116863,
             "share_own_percent": 0.0745,
-            "update_date": "2024-09-20",
+            "update_date": "2025-10-05",
             "percentage": "7.45%"
         },
         {
-            "id": "89734069",
+            "id": "90204730",
             "share_holder": "LƯU TUYẾT HƯƠNG",
             "quantity": 1100000,
             "share_own_percent": 0.0733,
-            "update_date": "2024-09-20",
+            "update_date": "2025-10-05",
             "percentage": "7.33%"
         },
         {
-            "id": "89747921",
+            "id": "90218501",
             "share_holder": "Tạ Quang Tuấn",
             "quantity": 163298,
             "share_own_percent": 0.0108865,
-            "update_date": "2025-01-22",
+            "update_date": "2025-10-05",
             "percentage": "1.09%"
         },
         {
-            "id": "89739369",
+            "id": "90209970",
             "share_holder": "Nguyễn Thế Hùng",
             "quantity": 17000,
             "share_own_percent": 0.0011333,
-            "update_date": "2025-07-22",
+            "update_date": "2025-10-05",
             "percentage": "0.11%"
         },
         {
-            "id": "89743373",
+            "id": "90213963",
             "share_holder": "Nguyễn Văn Tuân",
             "quantity": 10300,
             "share_own_percent": 0.0006867,
-            "update_date": "2025-07-22",
+            "update_date": "2025-10-05",
             "percentage": "0.07%"
         },
         {
-            "id": "89749049",
+            "id": "90219616",
             "share_holder": "Tô Thị Lan",
             "quantity": 10000,
             "share_own_percent": 0.00066,
-            "update_date": "2023-03-09",
+            "update_date": "2025-10-05",
             "percentage": "0.07%"
         },
         {
-            "id": "89737523",
+            "id": "90208142",
             "share_holder": "Nguyễn Mạnh Cường",
             "quantity": 6400,
             "share_own_percent": 0.00042,
-            "update_date": "2022-03-16",
+            "update_date": "2025-10-05",
             "percentage": "0.04%"
         },
         {
-            "id": "89750188",
+            "id": "90220739",
             "share_holder": "Trần Quốc Thành",
             "quantity": 5416,
             "share_own_percent": 0.0004,
-            "update_date": "2017-03-28",
+            "update_date": "2025-10-05",
             "percentage": "0.04%"
         },
         {
-            "id": "89731635",
+            "id": "90202303",
             "share_holder": "Lê Dũng",
             "quantity": 5200,
             "share_own_percent": 0.0003467,
-            "update_date": "2025-07-22",
+            "update_date": "2025-10-05",
             "percentage": "0.03%"
         },
         {
-            "id": "89745652",
+            "id": "90216238",
             "share_holder": "Phạm Văn Hiền",
             "quantity": 4900,
             "share_own_percent": 0.0003,
-            "update_date": "2024-06-21",
+            "update_date": "2025-10-05",
             "percentage": "0.03%"
         },
         {
-            "id": "89729364",
+            "id": "90200036",
             "share_holder": "Hoàng Kiên",
             "quantity": 3200,
             "share_own_percent": 0.0002133,
-            "update_date": "2025-07-22",
+            "update_date": "2025-10-05",
             "percentage": "0.02%"
         },
         {
-            "id": "89732927",
+            "id": "90203595",
             "share_holder": "Lê Thị Thu Duyên",
             "quantity": 2600,
             "share_own_percent": 0.0002,
-            "update_date": "2023-07-12",
+            "update_date": "2025-10-05",
             "percentage": "0.02%"
         },
         {
-            "id": "89752133",
+            "id": "90222668",
             "share_holder": "Trương Quang Vệ",
             "quantity": 2700,
             "share_own_percent": 0.0002,
-            "update_date": "2022-03-16",
+            "update_date": "2025-10-05",
             "percentage": "0.02%"
         },
         {
-            "id": "89745759",
+            "id": "90216342",
             "share_holder": "Phạm Văn Quảng",
             "quantity": 2600,
             "share_own_percent": 0.00017,
-            "update_date": "2018-09-26",
+            "update_date": "2025-10-05",
             "percentage": "0.02%"
         },
         {
-            "id": "89729934",
+            "id": "90200606",
             "share_holder": "Hoàng Xuân Tùng",
             "quantity": 1100,
             "share_own_percent": 7.33e-05,
-            "update_date": "2025-07-22",
+            "update_date": "2025-10-05",
             "percentage": "0.01%"
         }
     ],
@@ -155,8 +155,8 @@
         {
             "id": "7",
             "officer_name": "Tạ Quang Tuấn",
-            "officer_position": "Giám đốc/Thành viên Hội đồng Quản trị",
-            "position_short_name": "GĐ/TV HĐQT",
+            "officer_position": "Thành viên Hội đồng Quản trị/Giám đốc",
+            "position_short_name": "TV HĐQT/GĐ",
             "update_date": "2025-01-22",
             "officer_own_percent": 0.0108865,
             "quantity": 163298,
@@ -165,8 +165,8 @@
         {
             "id": "9",
             "officer_name": "Nguyễn Thế Hùng",
-            "officer_position": "Phó Giám đốc/Thành viên Hội đồng Quản trị",
-            "position_short_name": "Phó GĐ/TV HĐQT",
+            "officer_position": "Thành viên Hội đồng Quản trị/Phó Giám đốc",
+            "position_short_name": "TV HĐQT/Phó GĐ",
             "update_date": "2025-07-22",
             "officer_own_percent": 0.0011333,
             "quantity": 17000,

@@ -13,7 +13,7 @@
     },
     "shareholders": [
         {
-            "id": "91162381",
+            "id": "91634888",
             "share_holder": "Tổng Công ty Đầu Tư Và Kinh Doanh Vốn Nhà Nước - Công ty TNHH",
             "quantity": 752476602,
             "share_own_percent": 0.36,
@@ -21,7 +21,7 @@
             "percentage": "36.00%"
         },
         {
-            "id": "91142710",
+            "id": "91615207",
             "share_holder": "F&N Dairy Investments Private Limited",
             "quantity": 369752859,
             "share_own_percent": 0.1769,
@@ -29,7 +29,7 @@
             "percentage": "17.69%"
         },
         {
-            "id": "91160588",
+            "id": "91633095",
             "share_holder": "Platinum Victory Private Limited",
             "quantity": 221856553,
             "share_own_percent": 0.1062,
@@ -37,7 +37,7 @@
             "percentage": "10.62%"
         },
         {
-            "id": "91142709",
+            "id": "91615206",
             "share_holder": "F&n Bev Manufacturing Pte. Ltd.",
             "quantity": 56432376,
             "share_own_percent": 0.027,
@@ -45,7 +45,7 @@
             "percentage": "2.70%"
         },
         {
-            "id": "91148471",
+            "id": "91620970",
             "share_holder": "Ngân hàng Deutsche Aktiengesellschaft",
             "quantity": 26297320,
             "share_own_percent": 0.0219118879,
@@ -53,15 +53,15 @@
             "percentage": "2.19%"
         },
         {
-            "id": "91142744",
+            "id": "91615241",
             "share_holder": "Fubon FTSE Vietnam ETF",
             "quantity": 26733100,
             "share_own_percent": 0.0128,
-            "update_date": "2025-10-05",
+            "update_date": "2025-02-13",
             "percentage": "1.28%"
         },
         {
-            "id": "91142659",
+            "id": "91615156",
             "share_holder": "Employees Provident Fund Board",
             "quantity": 26565864,
             "share_own_percent": 0.0127,
@@ -69,7 +69,7 @@
             "percentage": "1.27%"
         },
         {
-            "id": "91162020",
+            "id": "91634527",
             "share_holder": "The Emerging Markets Fund Of The Genesis Group Trust For Employee Benefit Plans",
             "quantity": 24680960,
             "share_own_percent": 0.0118,
@@ -77,7 +77,7 @@
             "percentage": "1.18%"
         },
         {
-            "id": "91140694",
+            "id": "91613193",
             "share_holder": "Deutsche Bank Aktiengesellchaft, London Branch",
             "quantity": 19273408,
             "share_own_percent": 0.0111,
@@ -85,7 +85,7 @@
             "percentage": "1.11%"
         },
         {
-            "id": "91142707",
+            "id": "91615204",
             "share_holder": "First State Global Umbrella Fund Plc - First State Asian Equity Plus Fund",
             "quantity": 21279864,
             "share_own_percent": 0.0102,
@@ -93,7 +93,7 @@
             "percentage": "1.02%"
         },
         {
-            "id": "91148377",
+            "id": "91620876",
             "share_holder": "Matthews Pacific Tiger Fund",
             "quantity": 17993828,
             "share_own_percent": 0.0086,
@@ -101,7 +101,7 @@
             "percentage": "0.86%"
         },
         {
-            "id": "91161449",
+            "id": "91633958",
             "share_holder": "Stichting Depositary Apg Emerging Markets Equity Pool",
             "quantity": 13497977,
             "share_own_percent": 0.0077,
@@ -109,7 +109,7 @@
             "percentage": "0.77%"
         },
         {
-            "id": "91162023",
+            "id": "91634530",
             "share_holder": "The Genesis Emerging Markets Investment Company",
             "quantity": 12542264,
             "share_own_percent": 0.0072,
@@ -117,7 +117,7 @@
             "percentage": "0.72%"
         },
         {
-            "id": "91166448",
+            "id": "91638957",
             "share_holder": "VanEck Vietnam ETF",
             "quantity": 15070141,
             "share_own_percent": 0.0072,
@@ -125,7 +125,7 @@
             "percentage": "0.72%"
         },
         {
-            "id": "91134911",
+            "id": "91607403",
             "share_holder": "Amersham Industries Limited",
             "quantity": 10341514,
             "share_own_percent": 0.0071,
@@ -133,7 +133,7 @@
             "percentage": "0.71%"
         },
         {
-            "id": "91166705",
+            "id": "91639215",
             "share_holder": "Vietnam Ventures Limited",
             "quantity": 10395869,
             "share_own_percent": 0.006,
@@ -141,7 +141,7 @@
             "percentage": "0.60%"
         },
         {
-            "id": "91148371",
+            "id": "91620870",
             "share_holder": "Matthews Asia Dividend Fund",
             "quantity": 9613225,
             "share_own_percent": 0.0055,
@@ -149,7 +149,7 @@
             "percentage": "0.55%"
         },
         {
-            "id": "91166718",
+            "id": "91639228",
             "share_holder": "Vinacapital Vietnam Opportunity Fund Ltd.",
             "quantity": 9250094,
             "share_own_percent": 0.0053119,
@@ -157,7 +157,7 @@
             "percentage": "0.53%"
         },
         {
-            "id": "91140664",
+            "id": "91613163",
             "share_holder": "Deutsche Asset Management (Asia) Limited",
             "quantity": 6305772,
             "share_own_percent": 0.0052541996,
@@ -165,7 +165,7 @@
             "percentage": "0.53%"
         },
         {
-            "id": "91157779",
+            "id": "91630287",
             "share_holder": "Norges Bank",
             "quantity": 10807900,
             "share_own_percent": 0.0052,
@@ -173,7 +173,7 @@
             "percentage": "0.52%"
         },
         {
-            "id": "91135088",
+            "id": "91607581",
             "share_holder": "Beira Limited",
             "quantity": 5904008,
             "share_own_percent": 0.0049194352,
@@ -181,7 +181,7 @@
             "percentage": "0.49%"
         },
         {
-            "id": "91138892",
+            "id": "91611391",
             "share_holder": "Công ty TNHH Manulife (Việt Nam) (Manulife)",
             "quantity": 9695600,
             "share_own_percent": 0.0046,
@@ -189,7 +189,7 @@
             "percentage": "0.46%"
         },
         {
-            "id": "91142686",
+            "id": "91615183",
             "share_holder": "Fidelity Investment Trust - Fidelity Series Emerging Markets Fund",
             "quantity": 7770400,
             "share_own_percent": 0.0045,
@@ -197,7 +197,7 @@
             "percentage": "0.45%"
         },
         {
-            "id": "91148400",
+            "id": "91620899",
             "share_holder": "Merrill Lynch International",
             "quantity": 9407528,
             "share_own_percent": 0.0045,
@@ -205,7 +205,7 @@
             "percentage": "0.45%"
         },
         {
-            "id": "91144857",
+            "id": "91617353",
             "share_holder": "KIM Vietnam Growth Equity Fund",
             "quantity": 9485900,
             "share_own_percent": 0.0045,
@@ -213,7 +213,7 @@
             "percentage": "0.45%"
         },
         {
-            "id": "91136310",
+            "id": "91608806",
             "share_holder": "Citigroup Global Markets Ltd",
             "quantity": 8631945,
             "share_own_percent": 0.0041,
@@ -221,7 +221,7 @@
             "percentage": "0.41%"
         },
         {
-            "id": "91142775",
+            "id": "91615272",
             "share_holder": "Government Of Singapore",
             "quantity": 7274316,
             "share_own_percent": 0.0035,
@@ -229,7 +229,7 @@
             "percentage": "0.35%"
         },
         {
-            "id": "91148165",
+            "id": "91620663",
             "share_holder": "Mai Kiều Liên",
             "quantity": 6400444,
             "share_own_percent": 0.0031,
@@ -237,7 +237,7 @@
             "percentage": "0.31%"
         },
         {
-            "id": "91144934",
+            "id": "91617430",
             "share_holder": "KITMC Worldwide Vietnam RSP Balanced Fund",
             "quantity": 3240020,
             "share_own_percent": 0.002699703,
@@ -245,7 +245,7 @@
             "percentage": "0.27%"
         },
         {
-            "id": "91142803",
+            "id": "91615300",
             "share_holder": "Grinling International Limited",
             "quantity": 2941221,
             "share_own_percent": 0.002,
@@ -253,7 +253,7 @@
             "percentage": "0.20%"
         },
         {
-            "id": "91134961",
+            "id": "91607454",
             "share_holder": "Arisaig ASEAN Fund Limited",
             "quantity": 1953480,
             "share_own_percent": 0.0016277109,
@@ -261,7 +261,7 @@
             "percentage": "0.16%"
         },
         {
-            "id": "91142711",
+            "id": "91615208",
             "share_holder": "Food & Beverage",
             "quantity": 1766833,
             "share_own_percent": 0.0014721898,
@@ -269,7 +269,7 @@
             "percentage": "0.15%"
         },
         {
-            "id": "91140633",
+            "id": "91613132",
             "share_holder": "DC Developing Markets Strategies Public Limited Company",
             "quantity": 1524615,
             "share_own_percent": 0.0011,
@@ -277,7 +277,7 @@
             "percentage": "0.11%"
         },
         {
-            "id": "91160610",
+            "id": "91633117",
             "share_holder": "PXP Vietnam Emerging Equity Fund",
             "quantity": 1887511,
             "share_own_percent": 0.00108392,
@@ -285,7 +285,7 @@
             "percentage": "0.11%"
         },
         {
-            "id": "91161182",
+            "id": "91633689",
             "share_holder": "Quỹ ETF DCVFMVN30",
             "quantity": 1392470,
             "share_own_percent": 0.00079964,
@@ -293,7 +293,7 @@
             "percentage": "0.08%"
         },
         {
-            "id": "91138991",
+            "id": "91611490",
             "share_holder": "Công ty TNHH MTV Đầu Tư SCIC",
             "quantity": 1450000,
             "share_own_percent": 0.00069,
@@ -301,7 +301,7 @@
             "percentage": "0.07%"
         },
         {
-            "id": "91142783",
+            "id": "91615280",
             "share_holder": "Greystanes Limited Company",
             "quantity": 711582,
             "share_own_percent": 0.0005929161,
@@ -309,7 +309,7 @@
             "percentage": "0.06%"
         },
         {
-            "id": "91154911",
+            "id": "91627415",
             "share_holder": "Nguyễn Thị Thanh Hòa",
             "quantity": 1108184,
             "share_own_percent": 0.0005,
@@ -317,7 +317,7 @@
             "percentage": "0.05%"
         },
         {
-            "id": "91160854",
+            "id": "91633361",
             "share_holder": "Quỹ Đầu tư Cổ phiếu Hàng Đầu VCBF",
             "quantity": 854390,
             "share_own_percent": 0.00049064,
@@ -325,7 +325,7 @@
             "percentage": "0.05%"
         },
         {
-            "id": "91160944",
+            "id": "91633451",
             "share_holder": "Quỹ Đầu tư Cổ phiếu Tăng trưởng Mirae Asset Việt Nam",
             "quantity": 800000,
             "share_own_percent": 0.00045941,
@@ -333,7 +333,7 @@
             "percentage": "0.05%"
         },
         {
-            "id": "91160992",
+            "id": "91633499",
             "share_holder": "Quỹ Đầu tư Cổ phiếu Việt Nam Chọn lọc",
             "quantity": 722910,
             "share_own_percent": 0.0004151368,
@@ -341,7 +341,7 @@
             "percentage": "0.04%"
         },
         {
-            "id": "91163655",
+            "id": "91636163",
             "share_holder": "Trần Minh Văn",
             "quantity": 887236,
             "share_own_percent": 0.0004,
@@ -349,7 +349,7 @@
             "percentage": "0.04%"
         },
         {
-            "id": "91160832",
+            "id": "91633339",
             "share_holder": "Quỹ Đầu tư Chứng Khoán Năng động DC",
             "quantity": 548857,
             "share_own_percent": 0.00031519,
@@ -357,7 +357,7 @@
             "percentage": "0.03%"
         },
         {
-            "id": "91144601",
+            "id": "91617098",
             "share_holder": "Indochina Capital Vietnam Holdings Ltd.",
             "quantity": 376800,
             "share_own_percent": 0.0003139635,
@@ -365,7 +365,7 @@
             "percentage": "0.03%"
         },
         {
-            "id": "91146693",
+            "id": "91619188",
             "share_holder": "Lê Thị Ngọc Thuý",
             "quantity": 619303,
             "share_own_percent": 0.0002963,
@@ -373,7 +373,7 @@
             "percentage": "0.03%"
         },
         {
-            "id": "91148137",
+            "id": "91620635",
             "share_holder": "Mai Hoài Anh",
             "quantity": 512511,
             "share_own_percent": 0.000245,
@@ -381,7 +381,7 @@
             "percentage": "0.02%"
         },
         {
-            "id": "91146278",
+            "id": "91618775",
             "share_holder": "Lê Thành Liêm",
             "quantity": 493381,
             "share_own_percent": 0.00024,
@@ -389,7 +389,7 @@
             "percentage": "0.02%"
         },
         {
-            "id": "91154648",
+            "id": "91627151",
             "share_holder": "Nguyễn Thị Như Hằng",
             "quantity": 279572,
             "share_own_percent": 0.0002329496,
@@ -397,7 +397,7 @@
             "percentage": "0.02%"
         },
         {
-            "id": "91160947",
+            "id": "91633454",
             "share_holder": "Quỹ Đầu tư Cổ phiếu Tập trung Cổ tức DC",
             "quantity": 400000,
             "share_own_percent": 0.0002297032,
@@ -405,7 +405,7 @@
             "percentage": "0.02%"
         },
         {
-            "id": "91150936",
+            "id": "91623437",
             "share_holder": "Nguyễn Hữu Ngọc Trân",
             "quantity": 211117,
             "share_own_percent": 0.0001759103,
@@ -413,7 +413,7 @@
             "percentage": "0.02%"
         },
         {
-            "id": "91160866",
+            "id": "91633373",
             "share_holder": "Quỹ Đầu tư Cổ phiếu Hưng Thịnh Vinacapital",
             "quantity": 272983,
             "share_own_percent": 0.0001567627,
@@ -421,7 +421,7 @@
             "percentage": "0.02%"
         },
         {
-            "id": "91142508",
+            "id": "91615004",
             "share_holder": "Dương Thị Ngọc Trinh",
             "quantity": 275976,
             "share_own_percent": 0.000132,
@@ -429,7 +429,7 @@
             "percentage": "0.01%"
         },
         {
-            "id": "91151503",
+            "id": "91624006",
             "share_holder": "Nguyễn Minh Ân",
             "quantity": 251721,
             "share_own_percent": 0.00012,
@@ -437,7 +437,7 @@
             "percentage": "0.01%"
         },
         {
-            "id": "91165559",
+            "id": "91638070",
             "share_holder": "Trịnh Quốc Dũng",
             "quantity": 241950,
             "share_own_percent": 0.0001,
@@ -445,7 +445,7 @@
             "percentage": "0.01%"
         },
         {
-            "id": "91159975",
+            "id": "91632482",
             "share_holder": "Phan Minh Tiên",
             "quantity": 115716,
             "share_own_percent": 0.0001,
@@ -453,7 +453,7 @@
             "percentage": "0.01%"
         },
         {
-            "id": "91161243",
+            "id": "91633750",
             "share_holder": "Quỹ ETF SSIAM VNX50",
             "quantity": 145692,
             "share_own_percent": 8.36648e-05,
@@ -461,7 +461,7 @@
             "percentage": "0.01%"
         },
         {
-            "id": "91160814",
+            "id": "91633321",
             "share_holder": "Quỹ Đầu tư Chủ động VND",
             "quantity": 145076,
             "share_own_percent": 8.331e-05,
@@ -469,7 +469,7 @@
             "percentage": "0.01%"
         },
         {
-            "id": "91158550",
+            "id": "91631055",
             "share_holder": "Phạm Phú Tuấn",
             "quantity": 84820,
             "share_own_percent": 7.06751e-05,
@@ -477,7 +477,7 @@
             "percentage": "0.01%"
         },
         {
-            "id": "91135541",
+            "id": "91608036",
             "share_holder": "Bùi Thị Hương",
             "quantity": 134176,
             "share_own_percent": 6.42e-05,
@@ -485,7 +485,7 @@
             "percentage": "0.01%"
         },
         {
-            "id": "91139231",
+            "id": "91611732",
             "share_holder": "Công ty TNHH Quản lý Quỹ Bảo Việt",
             "quantity": 54726,
             "share_own_percent": 4.55997e-05,
@@ -493,7 +493,7 @@
             "percentage": "0.00%"
         },
         {
-            "id": "91160789",
+            "id": "91633296",
             "share_holder": "Quỹ Đầu tư Cân bằng Chiến Lược VCBF",
             "quantity": 77964,
             "share_own_percent": 4.477e-05,
@@ -501,7 +501,7 @@
             "percentage": "0.00%"
         },
         {
-            "id": "91160941",
+            "id": "91633448",
             "share_holder": "Quỹ Đầu tư Cổ phiếu Năng động Bảo Việt",
             "quantity": 57012,
             "share_own_percent": 3.27396e-05,
@@ -509,7 +509,7 @@
             "percentage": "0.00%"
         },
         {
-            "id": "91156092",
+            "id": "91628597",
             "share_holder": "Nguyễn Trung Kiên",
             "quantity": 38880,
             "share_own_percent": 3e-05,
@@ -517,7 +517,7 @@
             "percentage": "0.00%"
         },
         {
-            "id": "91160788",
+            "id": "91633295",
             "share_holder": "Quỹ Đầu tư Cân bằng Bản Việt",
             "quantity": 48000,
             "share_own_percent": 2.75644e-05,
@@ -525,7 +525,7 @@
             "percentage": "0.00%"
         },
         {
-            "id": "91160907",
+            "id": "91633414",
             "share_holder": "Quỹ Đầu tư Cổ phiếu Manulife",
             "quantity": 47910,
             "share_own_percent": 2.75127e-05,
@@ -533,7 +533,7 @@
             "percentage": "0.00%"
         },
         {
-            "id": "91161109",
+            "id": "91633616",
             "share_holder": "Quỹ Đầu tư Tăng trưởng DFVN",
             "quantity": 47000,
             "share_own_percent": 2.69901e-05,
@@ -541,7 +541,7 @@
             "percentage": "0.00%"
         },
         {
-            "id": "91160991",
+            "id": "91633498",
             "share_holder": "Quỹ Đầu tư Cổ phiếu Triển vọng Bảo Việt",
             "quantity": 45000,
             "share_own_percent": 2.58416e-05,
@@ -549,7 +549,7 @@
             "percentage": "0.00%"
         },
         {
-            "id": "91155501",
+            "id": "91628003",
             "share_holder": "Nguyễn Thị Tuyết Mai",
             "quantity": 35000,
             "share_own_percent": 2.4e-05,
@@ -557,7 +557,7 @@
             "percentage": "0.00%"
         },
         {
-            "id": "91161053",
+            "id": "91633560",
             "share_holder": "Quỹ Đầu tư Năng động Eastspring Investments Việt Nam",
             "quantity": 41720,
             "share_own_percent": 2.3958e-05,
@@ -565,7 +565,7 @@
             "percentage": "0.00%"
         },
         {
-            "id": "91139056",
+            "id": "91611556",
             "share_holder": "Công ty TNHH MTV Quản Lý Quỹ Ngân Hàng Thương Mại Cổ phần Công Thương Việt Nam",
             "quantity": 25200,
             "share_own_percent": 2.09975e-05,
@@ -573,7 +573,7 @@
             "percentage": "0.00%"
         },
         {
-            "id": "91152485",
+            "id": "91624988",
             "share_holder": "Nguyễn Quốc Khánh",
             "quantity": 29755,
             "share_own_percent": 1.42e-05,
@@ -581,7 +581,7 @@
             "percentage": "0.00%"
         },
         {
-            "id": "91149019",
+            "id": "91621514",
             "share_holder": "Ngô Thị Thu Trang",
             "quantity": 9453,
             "share_own_percent": 6.5e-06,
@@ -589,7 +589,7 @@
             "percentage": "0.00%"
         },
         {
-            "id": "91148191",
+            "id": "91620689",
             "share_holder": "Mai Quang Liêm",
             "quantity": 5786,
             "share_own_percent": 2.7e-06,
@@ -597,7 +597,7 @@
             "percentage": "0.00%"
         },
         {
-            "id": "91168151",
+            "id": "91640666",
             "share_holder": "Vũ Trí Thức",
             "quantity": 4000,
             "share_own_percent": 2e-06,
@@ -607,7 +607,7 @@
     ],
     "subsidiaries": [
         {
-            "id": "25785205",
+            "id": "25917542",
             "sub_organ_code": "ANGKORDP",
             "ownership_percent": 1.0,
             "organ_name": "Angkor Dairy Products Co., Ltd",
@@ -615,7 +615,7 @@
             "percentage": "100.00%"
         },
         {
-            "id": "25785206",
+            "id": "25917543",
             "sub_organ_code": "DRIFTW",
             "ownership_percent": 1.0,
             "organ_name": "Driftwood Dairy Holdings Corporation",
@@ -623,7 +623,7 @@
             "percentage": "100.00%"
         },
         {
-            "id": "25785207",
+            "id": "25917544",
             "sub_organ_code": "LAOJAGRO",
             "ownership_percent": 0.9207,
             "organ_name": "Lao-jagro Development Xiengkhouang Co.,ltd",
@@ -631,7 +631,7 @@
             "percentage": "92.07%"
         },
         {
-            "id": "25785208",
+            "id": "25917545",
             "sub_organ_code": "TNTHCM",
             "ownership_percent": 1.0,
             "organ_name": "Công ty TNHH Một Thành Viên Bò Sữa Thống Nhất Thanh Hoá",
@@ -639,7 +639,7 @@
             "percentage": "100.00%"
         },
         {
-            "id": "25785209",
+            "id": "25917546",
             "sub_organ_code": "VIETSUGAR",
             "ownership_percent": 0.65,
             "organ_name": "Công ty Cổ phần Đường Việt Nam",
@@ -647,7 +647,7 @@
             "percentage": "65.00%"
         },
         {
-            "id": "25785210",
+            "id": "25917547",
             "sub_organ_code": "VILICO",
             "ownership_percent": 0.6894,
             "organ_name": "Tổng Công ty Chăn nuôi Việt Nam - Công ty Cổ phần",
@@ -655,7 +655,7 @@
             "percentage": "68.94%"
         },
         {
-            "id": "25785211",
+            "id": "25917548",
             "sub_organ_code": "VNMC",
             "ownership_percent": 1.0,
             "organ_name": "Công ty TNHH MTV Bò Sữa Việt Nam",
@@ -663,7 +663,7 @@
             "percentage": "100.00%"
         },
         {
-            "id": "25785212",
+            "id": "25917549",
             "sub_organ_code": "APIS",
             "ownership_percent": 0.2,
             "organ_name": "Công Ty Cổ Phần Apis",
@@ -671,7 +671,7 @@
             "percentage": "20.00%"
         },
         {
-            "id": "25785213",
+            "id": "25917550",
             "sub_organ_code": "ASIACOCONUT",
             "ownership_percent": 0.2496,
             "organ_name": "Công ty Cổ Phần Chế Biến Dừa Á Châu",
@@ -679,7 +679,7 @@
             "percentage": "24.96%"
         },
         {
-            "id": "25785214",
+            "id": "25917551",
             "sub_organ_code": "F000001208",
             "ownership_percent": 0.1355,
             "organ_name": "Miraka Holding Limited",
@@ -689,21 +689,21 @@
     ],
     "affiliates": [
         {
-            "id": "25785212",
+            "id": "25917549",
             "sub_organ_code": "APIS",
             "organ_name": "Công Ty Cổ Phần Apis",
             "ownership_percent": 0.2,
             "percentage": "20.00%"
         },
         {
-            "id": "25785213",
+            "id": "25917550",
             "sub_organ_code": "ASIACOCONUT",
             "organ_name": "Công ty Cổ Phần Chế Biến Dừa Á Châu",
             "ownership_percent": 0.2496,
             "percentage": "24.96%"
         },
         {
-            "id": "25785214",
+            "id": "25917551",
             "sub_organ_code": "F000001208",
             "organ_name": "Miraka Holding Limited",
             "ownership_percent": 0.1355,
@@ -714,8 +714,8 @@
         {
             "id": "16",
             "officer_name": "Mai Kiều Liên",
-            "officer_position": "Tổng Giám đốc/Phụ trách Công bố thông tin/Thành viên Hội đồng Quản trị",
-            "position_short_name": "TGĐ/Phụ trách CBTT/TV HĐQT",
+            "officer_position": "Phụ trách Công bố thông tin/Thành viên Hội đồng Quản trị/Tổng Giám đốc",
+            "position_short_name": "Phụ trách CBTT/TV HĐQT/TGĐ",
             "update_date": "2025-08-14",
             "officer_own_percent": 0.0031,
             "quantity": 6400444,
@@ -744,8 +744,8 @@
         {
             "id": "17",
             "officer_name": "Lê Thành Liêm",
-            "officer_position": "Giám đốc Tài chính/Thành viên Hội đồng Quản trị/Kế toán trưởng",
-            "position_short_name": "GĐ Tài chính/TV HĐQT/Kế toán trưởng",
+            "officer_position": "Thành viên Hội đồng Quản trị/Giám đốc Tài chính/Kế toán trưởng",
+            "position_short_name": "TV HĐQT/GĐ Tài chính/Kế toán trưởng",
             "update_date": "2025-10-21",
             "officer_own_percent": 0.00024,
             "quantity": 493381,

@@ -13,7 +13,7 @@
     },
     "shareholders": [
         {
-            "id": "95397885",
+            "id": "95872148",
             "share_holder": "Công ty Cổ phần Tập đoàn Đầu tư I.P.A",
             "quantity": 393318477,
             "share_own_percent": 0.2584,
@@ -21,7 +21,7 @@
             "percentage": "25.84%"
         },
         {
-            "id": "95428435",
+            "id": "95902730",
             "share_holder": "Yurie Vietnam Securities Investment Trust",
             "quantity": 60817775,
             "share_own_percent": 0.0499,
@@ -29,7 +29,7 @@
             "percentage": "4.99%"
         },
         {
-            "id": "95426643",
+            "id": "95900936",
             "share_holder": "Vietnam Investment Fund I, L.P",
             "quantity": 52049373,
             "share_own_percent": 0.0427,
@@ -37,7 +37,7 @@
             "percentage": "4.27%"
         },
         {
-            "id": "95420661",
+            "id": "95894956",
             "share_holder": "PYN Elite Fund",
             "quantity": 49181328,
             "share_own_percent": 0.0404,
@@ -45,7 +45,7 @@
             "percentage": "4.04%"
         },
         {
-            "id": "95420591",
+            "id": "95894886",
             "share_holder": "PXP Vietnam Smaller Companies Fund Limited",
             "quantity": 39504323,
             "share_own_percent": 0.0324,
@@ -53,7 +53,7 @@
             "percentage": "3.24%"
         },
         {
-            "id": "95397630",
+            "id": "95871894",
             "share_holder": "Công ty Cổ phần Quản Lý Quỹ Đầu Tư Dragon Capital Việt Nam",
             "quantity": 5000077,
             "share_own_percent": 0.03225894,
@@ -61,7 +61,7 @@
             "percentage": "3.23%"
         },
         {
-            "id": "95418310",
+            "id": "95892601",
             "share_holder": "Phạm Minh Hương",
             "quantity": 44901212,
             "share_own_percent": 0.0295,
@@ -69,7 +69,7 @@
             "percentage": "2.95%"
         },
         {
-            "id": "95402580",
+            "id": "95876846",
             "share_holder": "Endurance Capital Vietnam I Ltd",
             "quantity": 14737144,
             "share_own_percent": 0.0121,
@@ -77,7 +77,7 @@
             "percentage": "1.21%"
         },
         {
-            "id": "95394599",
+            "id": "95868865",
             "share_holder": "Access S.a., Sicav-sif-asia Top Picks",
             "quantity": 3325000,
             "share_own_percent": 0.0078,
@@ -85,7 +85,7 @@
             "percentage": "0.78%"
         },
         {
-            "id": "95400490",
+            "id": "95874758",
             "share_holder": "Đậu Thúy Hà",
             "quantity": 117944,
             "share_own_percent": 0.000760939,
@@ -93,7 +93,7 @@
             "percentage": "0.08%"
         },
         {
-            "id": "95415834",
+            "id": "95890126",
             "share_holder": "Nguyễn Tống Sơn",
             "quantity": 75117,
             "share_own_percent": 0.0004846321,
@@ -101,7 +101,7 @@
             "percentage": "0.05%"
         },
         {
-            "id": "95425324",
+            "id": "95899622",
             "share_holder": "Trần Vũ Thạch",
             "quantity": 100000,
             "share_own_percent": 0.000454,
@@ -109,7 +109,7 @@
             "percentage": "0.05%"
         },
         {
-            "id": "95428439",
+            "id": "95902734",
             "share_holder": "Yurie Vietnam Smart Accumulated Target Return Fund",
             "quantity": 87000,
             "share_own_percent": 0.0004,
@@ -117,7 +117,7 @@
             "percentage": "0.04%"
         },
         {
-            "id": "95413612",
+            "id": "95887898",
             "share_holder": "Nguyễn Thị Hà Ninh",
             "quantity": 25597,
             "share_own_percent": 0.000116,
@@ -125,7 +125,7 @@
             "percentage": "0.01%"
         },
         {
-            "id": "95421078",
+            "id": "95895373",
             "share_holder": "Quỹ Đầu tư Tăng trưởng DFVN",
             "quantity": 20000,
             "share_own_percent": 9.59136e-05,
@@ -133,7 +133,7 @@
             "percentage": "0.01%"
         },
         {
-            "id": "95406400",
+            "id": "95880671",
             "share_holder": "Lê Thị Hồng Lĩnh",
             "quantity": 2543,
             "share_own_percent": 1.64066e-05,
@@ -141,7 +141,7 @@
             "percentage": "0.00%"
         },
         {
-            "id": "95428303",
+            "id": "95902598",
             "share_holder": "Vũ Việt Anh",
             "quantity": 1750,
             "share_own_percent": 1e-06,
@@ -149,7 +149,7 @@
             "percentage": "0.00%"
         },
         {
-            "id": "95427376",
+            "id": "95901669",
             "share_holder": "Vũ Hiền",
             "quantity": 529,
             "share_own_percent": 4e-07,
@@ -157,7 +157,7 @@
             "percentage": "0.00%"
         },
         {
-            "id": "95417403",
+            "id": "95891696",
             "share_holder": "Nguyễn Vũ Long",
             "quantity": 273,
             "share_own_percent": 2e-07,
@@ -168,14 +168,14 @@
     "subsidiaries": [],
     "affiliates": [
         {
-            "id": "27000310",
+            "id": "27138256",
             "sub_organ_code": "IPAG",
             "organ_name": "Công ty Cổ phần Tập đoàn Đầu tư I.P.A",
             "ownership_percent": NaN,
             "percentage": "nan%"
         },
         {
-            "id": "27000311",
+            "id": "27138257",
             "sub_organ_code": "PTI",
             "organ_name": "Tổng Công ty Cổ phần Bảo hiểm Bưu điện",
             "ownership_percent": 0.2,

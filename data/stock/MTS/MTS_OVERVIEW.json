@@ -13,23 +13,23 @@
     },
     "shareholders": [
         {
-            "id": "99673822",
+            "id": "100152701",
             "share_holder": "Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam",
             "quantity": 7650000,
             "share_own_percent": 0.51,
-            "update_date": "2025-10-05",
+            "update_date": "2026-03-02",
             "percentage": "51.00%"
         },
         {
-            "id": "99650773",
+            "id": "100129623",
             "share_holder": "Công Ty TNHH Một Thành Viên Đại Vạn Phú",
             "quantity": 2650000,
             "share_own_percent": 0.1767,
-            "update_date": "2025-10-05",
+            "update_date": "2026-03-02",
             "percentage": "17.67%"
         },
         {
-            "id": "99668795",
+            "id": "100147668",
             "share_holder": "NGUYỄN VĂN HUYỀN",
             "quantity": 1116863,
             "share_own_percent": 0.0745,
@@ -37,7 +37,7 @@
             "percentage": "7.45%"
         },
         {
-            "id": "99659921",
+            "id": "100138775",
             "share_holder": "LƯU TUYẾT HƯƠNG",
             "quantity": 1100000,
             "share_own_percent": 0.0733,
@@ -45,7 +45,7 @@
             "percentage": "7.33%"
         },
         {
-            "id": "99673933",
+            "id": "100152811",
             "share_holder": "Tạ Quang Tuấn",
             "quantity": 163298,
             "share_own_percent": 0.0108865,
@@ -53,23 +53,23 @@
             "percentage": "1.09%"
         },
         {
-            "id": "99665265",
+            "id": "100144136",
             "share_holder": "Nguyễn Thế Hùng",
             "quantity": 17000,
             "share_own_percent": 0.0011333,
-            "update_date": "2025-10-05",
+            "update_date": "2026-03-02",
             "percentage": "0.11%"
         },
         {
-            "id": "99669329",
+            "id": "100148205",
             "share_holder": "Nguyễn Văn Tuân",
             "quantity": 10300,
             "share_own_percent": 0.0006867,
-            "update_date": "2025-10-05",
+            "update_date": "2026-03-02",
             "percentage": "0.07%"
         },
         {
-            "id": "99675056",
+            "id": "100153936",
             "share_holder": "Tô Thị Lan",
             "quantity": 10000,
             "share_own_percent": 0.00066,
@@ -77,7 +77,7 @@
             "percentage": "0.07%"
         },
         {
-            "id": "99663399",
+            "id": "100142263",
             "share_holder": "Nguyễn Mạnh Cường",
             "quantity": 6400,
             "share_own_percent": 0.00042,
@@ -85,7 +85,7 @@
             "percentage": "0.04%"
         },
         {
-            "id": "99676199",
+            "id": "100155079",
             "share_holder": "Trần Quốc Thành",
             "quantity": 5416,
             "share_own_percent": 0.0004,
@@ -93,15 +93,15 @@
             "percentage": "0.04%"
         },
         {
-            "id": "99657449",
+            "id": "100136298",
             "share_holder": "Lê Dũng",
             "quantity": 5200,
             "share_own_percent": 0.0003467,
-            "update_date": "2025-10-05",
+            "update_date": "2026-03-02",
             "percentage": "0.03%"
         },
         {
-            "id": "99671640",
+            "id": "100150516",
             "share_holder": "Phạm Văn Hiền",
             "quantity": 4900,
             "share_own_percent": 0.0003,
@@ -109,15 +109,15 @@
             "percentage": "0.03%"
         },
         {
-            "id": "99655160",
+            "id": "100134007",
             "share_holder": "Hoàng Kiên",
             "quantity": 3200,
             "share_own_percent": 0.0002133,
-            "update_date": "2025-10-05",
+            "update_date": "2026-03-02",
             "percentage": "0.02%"
         },
         {
-            "id": "99658763",
+            "id": "100137619",
             "share_holder": "Lê Thị Thu Duyên",
             "quantity": 2600,
             "share_own_percent": 0.0002,
@@ -125,7 +125,7 @@
             "percentage": "0.02%"
         },
         {
-            "id": "99678162",
+            "id": "100157056",
             "share_holder": "Trương Quang Vệ",
             "quantity": 2700,
             "share_own_percent": 0.0002,
@@ -133,7 +133,7 @@
             "percentage": "0.02%"
         },
         {
-            "id": "99671748",
+            "id": "100150624",
             "share_holder": "Phạm Văn Quảng",
             "quantity": 2600,
             "share_own_percent": 0.00017,
@@ -141,11 +141,11 @@
             "percentage": "0.02%"
         },
         {
-            "id": "99655729",
+            "id": "100134580",
             "share_holder": "Hoàng Xuân Tùng",
             "quantity": 1100,
             "share_own_percent": 7.33e-05,
-            "update_date": "2025-10-05",
+            "update_date": "2026-03-02",
             "percentage": "0.01%"
         }
     ],
@@ -167,7 +167,7 @@
             "officer_name": "Nguyễn Thế Hùng",
             "officer_position": "Phó Giám đốc/Thành viên Hội đồng Quản trị",
             "position_short_name": "Phó GĐ/TV HĐQT",
-            "update_date": "2025-07-22",
+            "update_date": "2026-03-02",
             "officer_own_percent": 0.0011333,
             "quantity": 17000,
             "percentage": "0.11%"
@@ -197,7 +197,7 @@
             "officer_name": "Lê Dũng",
             "officer_position": "Thành viên Hội đồng Quản trị",
             "position_short_name": "TV HĐQT",
-            "update_date": "2025-07-22",
+            "update_date": "2026-03-02",
             "officer_own_percent": 0.0003467,
             "quantity": 5200,
             "percentage": "0.03%"
